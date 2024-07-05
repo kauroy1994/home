@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : &name "Quick Links"
   pronouns         : # example: "she/her"  
-  bio              : "Links to my Google Scholar, and Socials"
+  bio              : &bio "Links to my Google Scholar, and Socials"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
