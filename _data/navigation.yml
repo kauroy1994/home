@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Journal Publications"
-    url: /publications/
-
-  - title: "Conference Publications"
-    url: /talks/    
+  - title: "Publications"
+    url: /publications/ 
 
   - title: "Academic Service"
     url: /teaching/    
@@ -17,6 +14,3 @@ main:
     
   - title: "Experience"
     url: /cv/
-    
-  - title: "Alter-Ego"
-    url: /markdown/
