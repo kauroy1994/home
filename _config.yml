@@ -21,7 +21,7 @@ repository               : "kauroy1994/kauroy1994.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : &avatar "profile.png"
   name             : &name "Quick Links"
   pronouns         : # example: "she/her"  
   bio              : &bio "Links to my Google Scholar, and Socials"
