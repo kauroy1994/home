@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : &bio "Links to my Google Scholar, and Socials"
   location         : "South Carolina"
-  employer         : &employer "University of South Carolina"
+  employer         : "University of South Carolina"
   uri              : # URL
   email            : &email "kaushikr@email.sc.edu" 
 
