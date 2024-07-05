@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Neurosymbolic Value-Inspired Artificial Intelligence (Why, What, and How)"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'The rapid progression of artificial intelligence (AI) systems, facilitated by the advent of large language models (LLMs), has resulted in their widespread application to provide human assistance across diverse industries. This trend has sparked significant discourse centered around the ever-increasing need for LLM-based AI systems to function among humans as a part of human society. Toward this end, neurosymbolic AI systems are attractive because of their potential to enable and interpretable interfaces for facilitating value-based decision making by leveraging explicit representations of shared values. In this article, we introduce substantial extensions to Kahneman’s System 1 and System 2 framework and propose a neurosymbolic computational framework called value-inspired AI (VAI). It outlines the crucial components essential for the robust and practical implementation of VAI systems, representing and integrating various dimensions of human values. Finally, we further offer insights into the current progress made in this direction and outline potential future directions for the field.'
+venue: 'IEEE Intelligent Systems'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10453391'
+citation: 'Sheth, A., & Roy, K. (2024). Neurosymbolic Value-Inspired Artificial Intelligence (Why, What, and How). IEEE Intelligent Systems, 39(1), 5-11.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
