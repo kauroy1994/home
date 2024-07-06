@@ -4,19 +4,6 @@ title: "Curriculum Vitae, Updated July 6th 2024."
 author_profile: true
 ---
 
-## Employment Experience
-
-- **2024**: Artificial Intelligence Researcher, Bosch Research LLC, Pittsburgh, USA
-  - Supervisor: Alessandro Oltramari
-- **2023**: Artificial Intelligence Researcher, Bosch Center of A, Pittsburgh, USA
-  - Supervisor: Alessandro Oltramari
-- **2022**: Artificial Intelligence Researcher, Samsung Research America, USA
-  - Supervisor: Manas Gaur
-- **2021-2022**: Visiting Researcher, Alan Turing Institute, UK
-  - Supervisor: Manas Gaur
-- **2015**: Intern Researcher, Helpsy Health, USA, Remote
-  - Supervisor: Sangeeta Agarwal
-
 ## Education
 
 - **2020 – Present**: Ph.D., University of South Carolina
