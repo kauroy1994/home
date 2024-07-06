@@ -18,4 +18,4 @@ Building Cognitive Architecture Inspired Neurosymbolic AI Systems for Egocentric
 ###  Abstract
 Building Neurosymbolic AI solutions for Spatio-Temporal Scene Understanding.
 ### Relevant Publication(s)
-[1] Roy, K., Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., & Sheth, A. (2024). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 227-233). [paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31204) [code](https://github.com/kauroy1994/CEG-QA)
+[1] Roy, K., Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., & Sheth, A. (2024). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 227-233). [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31204)] [[code](https://github.com/kauroy1994/CEG-QA)]
