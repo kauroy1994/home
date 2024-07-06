@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Curriculum Vitae"
+title: "Curriculum Vitae, Updated July 6th 2024."
 author_profile: true
 ---
 
