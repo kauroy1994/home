@@ -4,7 +4,7 @@ main:
     url: /publications/ 
   - title: "Work Experience"
     url: /cv/
-  - title: "Blog Posts"
-    url: /year-archive/
   - title: "Curriculum Vitae"
     url: /markdown/
+  - title: "Extra Curriculurs"
+    url: /year-archive/
