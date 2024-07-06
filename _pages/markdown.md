@@ -20,9 +20,9 @@ author_profile: true
 ## Education
 
 - **2020 – Present**: Ph.D., University of South Carolina
-  - Thesis title: To be Decided
+  - Topic: Process Knowledge-infused Learning and Reasoning
 - **2017 – 2019**: Ph.D., University of Texas at Dallas
-  - Thesis title: Relational Sequential Decision Making
+  - Topic: Relational Sequential Decision Making
 - **2015 – 2017**: M.Sc. Computer Science, Indiana University Bloomington
   - Specialization: Artificial Intelligence and Machine Learning
 - **2011 – 2015**: B.E. Computer Science, RV College of Engineering
