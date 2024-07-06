@@ -10,6 +10,5 @@ author_profile: true
 Internships
 ======
 
-
-* ![image](https://github.com/kauroy1994/home/assets/57400980/8891649c-c178-41b9-8182-18d9c138fc95 = 250x250) Artificial Intelligence Researcher, Bosch Center for Artificial Intelligence, May 2024
+* ![alt](https://github.com/kauroy1994/home/assets/57400980/8891649c-c178-41b9-8182-18d9c138fc95){: width="50%"} Artificial Intelligence Researcher, Bosch Center for Artificial Intelligence, May 2024
   * Building Cognitive Architecture Inspired Neurosymbolic AI Systems for Egocentric Activity Recognition
