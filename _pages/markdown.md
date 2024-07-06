@@ -4,7 +4,7 @@ title: "Curriculum Vitae, Updated July 6th 2024."
 author_profile: true
 ---
 
-## Education
+## 🏫 Education
 
 - **2020 – Present**: Ph.D., University of South Carolina
   - Topic: Process Knowledge-infused Learning and Reasoning
@@ -15,7 +15,7 @@ author_profile: true
 - **2011 – 2015**: B.E. Computer Science, RV College of Engineering
   - Thesis title: Computer Vision Algorithms for Background Understanding
 
-## Journal and Conference Publications
+## 📰 Journal and Conference Publications
 
 1. Tiwari, A., Sinan, M., Roy, Kaushik, Sheth, A., Saha, S., and Bhattacharyya, P. (2024). "Hi Model, generating 'nice' instead of 'good' is not as bad as generating 'rice'! Towards Context and Semantic Infused Dialogue Generation Loss Function and Evaluation Metric." European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD).
 
@@ -59,7 +59,7 @@ author_profile: true
 
 21. Anchalia, P.P., and Roy, Kaushik. (2014). "The k-nearest Neighbor Algorithm using MapReduce Paradigm." International Conference on Intelligent Systems, Modelling and Simulation.
 
-## Symposium and Workshop Publications
+## 📰 Symposium and Workshop Publications
 
 1. Roy, Kaushik, Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., and Sheth, A. (2024). "Causal Event Graph-Guided Language-based Spatiotemporal Question Answering." AAAI Spring Symposium on Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge.
 
@@ -95,7 +95,7 @@ author_profile: true
 
 17. Asawa, P., Gaur, M., Roy, Kaushik, and Sheth, A. (2020). "COVID-19 in Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data." AAAI Symposium on AI for Social Good.
 
-## Tutorials and Talks
+## 📰 Tutorials and Talks
 
 1. Roy, Kaushik, Chakraborty, M., Zi, Y., Gaur, M., Sheth, A. (2024). "Neurosymbolic Customized and Compact CoPilots." International Semantic Web Conference.
 
@@ -117,7 +117,7 @@ author_profile: true
 
 10. Gaur, M., and Roy, Kaushik. (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin.
 
-## Teaching and Academic Service
+## 👨‍🏫 Teaching and Academic Service
 
 - Guest Lecture, Topic: Constrained Optimization. Class: CSCE 590 - Optimization. Professor: Vignesh Narayanan, University of South Carolina (2024).
 - Guest Editor, IEEE Internet Computing Special Issue: Civilizing and Humanizing AI
