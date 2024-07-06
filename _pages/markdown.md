@@ -117,7 +117,7 @@ author_profile: true
 
 10. Gaur, M., and Roy, Kaushik. (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin.
 
-## 👨‍🏫 Teaching and Academic Service
+## 📖 Teaching and Academic Service
 
 - Guest Lecture, Topic: Constrained Optimization. Class: CSCE 590 - Optimization. Professor: Vignesh Narayanan, University of South Carolina (2024).
 - Guest Editor, IEEE Internet Computing Special Issue: Civilizing and Humanizing AI
