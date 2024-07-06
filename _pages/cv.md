@@ -36,3 +36,12 @@ Capturing Moments of Change in Longitudinal User Posts.
 
 ### Relevant Publication(s)
 1. Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., ..., Roy, K., ... & Liakata, M. (2022, July). Overview of the CLPsych 2022 shared task: Capturing moments of change in longitudinal user posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 184-198). [[paper](https://aclanthology.org/2022.clpsych-1.16.pdf)]
+
+## <img src="https://github.com/kauroy1994/home/assets/57400980/1c47b9bd-0afc-415e-b02e-e8aea865c00c" width="50" height="50"> Research Assistant, [StARLinG Lab](https://starling.utdallas.edu/), 2017-2020
+###  Abstract
+Building Methods for Relational Sequential Decision-Making.
+
+### Relevant Publication(s)
+1. Roy, K. (2020). Relational Sequential Decision Making [[paper](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1604&context=aii_fac_pub)]
+2. Das, S., Natarajan, S., Roy, K., Parr, R., & Kersting, K. (2020). Fitted Q-Learning for Relational Domains. International Conference on Knowledge Representation and Reasoning (Extended Abstract) [[paper](https://starling.utdallas.edu/assets/pdfs/KR_Fitted_Q.pdf)].
+
