@@ -26,3 +26,10 @@ Building Personalized Dialogue Systems.
 
 ### Relevant Publication(s)
 1. Raj, K., Roy, K., Bonagiri, V., Govil, P., Thirunarayan, K., Goswami, R., & Gaur, M. (2024, May). K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 219-226). [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31203)] [[code](https://github.com/kanak8278/DialogKPERM)]
+
+## <img src="https://github.com/kauroy1994/home/assets/57400980/9b93393b-d4ae-49c0-8530-38e054fc5dda" width="50" height="50"> Visiting Researcher, [The Alan Turing Institute](https://www.linkedin.com/school/the-alan-turing-institute/), Fall 2021
+###  Abstract
+Capturing Moments of Change in Longitudinal User Posts.
+
+### Relevant Publication(s)
+1. Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., ..., Roy, K., ... & Liakata, M. (2022, July). Overview of the CLPsych 2022 shared task: Capturing moments of change in longitudinal user posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 184-198). [[paper](https://aclanthology.org/2022.clpsych-1.16.pdf)]
