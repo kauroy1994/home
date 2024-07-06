@@ -44,7 +44,7 @@ Building Methods for Relational Sequential Decision-Making.
 # Undergraduate Research
 ## <img src="https://github.com/kauroy1994/home/assets/57400980/ffdf1f5e-e6b8-440f-be32-2a6d7565c2dd" width="50" height="50"> Bachelor of Engineering Student, [RV College of Engineering](https://www.linkedin.com/groups/96169/), 2014-2016
 ###  Abstract
-Building Methods for Optimized Computation Leveraging Better Algorithms and Distributed Computing Techniques.
+Building Methods for Optimized Computation by Leveraging Resource-Efficient Algorithms and Distributed Computing Techniques.
 
 ### Relevant Publication(s)
 1. Bhat, A., & Roy, K. (2016, August). Optimized knn for sequential execution. In 2016 International Conference on Inventive Computation Technologies (ICICT) (Vol. 1, pp. 1-6). IEEE. [[paper](https://ieeexplore.ieee.org/iel7/7811903/7823173/07823178.pdf?casa_token=ZOy8lMmBB5YAAAAA:O_-aSpGanoTyZg2Ezy09Xny96Pwy4gNyj34zY88r3RZP249afCiOfyMRQHI5sdVR6XdPUH4fiBI)]
