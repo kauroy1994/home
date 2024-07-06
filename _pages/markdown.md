@@ -119,7 +119,16 @@ author_profile: true
 
 ## 📖 Teaching and Academic Service
 
-- Guest Lecture, Topic: Constrained Optimization. Class: CSCE 590 - Optimization. Professor: Vignesh Narayanan, University of South Carolina (2024).
+- Guest Lecture, Topic: Constrained Optimization. Class: CSCE 590 - Optimization . Professor: Vignesh Narayanan, University of South Carolina (2024).
 - Guest Editor, IEEE Internet Computing Special Issue: Civilizing and Humanizing AI
 - Program Committee Member, @ICML 2024: Reliability and Dependability of AI Workshop
 - Program Committee Member, @AAAI 2024: AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering
+- Co-organizer, KiL 2023@KDD: 3rd International Workshop on Knowledge-infused Learning
+- Co-organizer, Collaborative Assistants for the Society's (CASY) 2022: 2nd Edition.
+- Guest Lecturer, Topic: Transformers and Liquid Time Networks. Class: Introduction to Neural Networks. Professor: Vignesh Narayanan, University of South Carolina (2023).
+- Guest Lecture, Topic: Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings. Class: Introduction to Neural Networks. Professor: Vignesh Narayanan, University of South Carolina (2023).
+- Guest Lecture, Topic: Automatic Differentiation and Optimization Strategies. Class: Introduction to Machine Learning. Professor: Manas Gaur, University of Maryland Baltimore County (2023).
+- Guest Lecture, Topic: Interpretable Machine Learning and Hoeffdings Inequality. Class: Introduction to Machine Learning. Professor: Manas Gaur, University of Maryland Baltimore County (2022).
+- Grant Writing: Contributed to NSF EAGER Award #2335967 - Knowledge-guided Neurosymbolic AI with Gaurdrails for Safe Virtual Health Assistants for 2023-2025. Principle Investigator: Amit Sheth.
+- Grant Writing: Contributed to NSF EAGER Award #2133842 - Advancing Neurosymbolic AI with Deep Knowledge-infused Learning for 2022-2024. Principle Investigator: Amit Sheth.
+- Grant Writing: Contributed to EPSRC-UKRI grant on Time-sensitive sensing of language and user-generated content awarded by the Alan Turing Institute for 2021-22. Principle Investigator: Manas Gaur.
