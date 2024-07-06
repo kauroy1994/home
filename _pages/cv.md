@@ -9,6 +9,7 @@ author_profile: true
 
 # Industry Research Labs
 <hr style="border:2px solid black">
+
 ## <img src="https://github.com/kauroy1994/home/assets/57400980/8891649c-c178-41b9-8182-18d9c138fc95" width="50" height="50"> Artificial Intelligence Researcher, [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Summer 2024
 ###  Abstract
 Building Cognitive Architecture Inspired Neurosymbolic AI Systems for Egocentric Activity Recognition.
@@ -28,6 +29,7 @@ Building Personalized Dialogue Systems.
 
 # Academic Research Labs
 <hr style="border:2px solid black">
+
 ## <img src="https://github.com/kauroy1994/home/assets/57400980/9b93393b-d4ae-49c0-8530-38e054fc5dda" width="50" height="50"> Visiting Researcher, [The Alan Turing Institute](https://www.linkedin.com/school/the-alan-turing-institute/), Fall 2021
 ###  Abstract
 Capturing Moments of Change in Longitudinal User Posts.
