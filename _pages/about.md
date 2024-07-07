@@ -14,4 +14,8 @@ Below are my [Google Scholar](https://scholar.google.com/citations?user=LpOo_IUA
 
 <img src="https://github.com/kauroy1994/home/assets/57400980/5967e4ce-4b36-4ebc-a624-211b582b44a1" width="500" height="500">
 
+# ℹ️ Some Quick Links to Help Navigate My Webpage
+- 🔗 [Select Publications](https://kauroy1994.github.io/home/publications/)
+- 🔗 [Work Experience](https://kauroy1994.github.io/home/cv/)
+- 🔗 [Curriculum Vitae](https://kauroy1994.github.io/home/markdown/)
 
