@@ -6,9 +6,9 @@ author_profile: true
 
 ## 🏫 Education
 
-- **2020 – Present**: Ph.D., University of South Carolina
+- **2020 – Present**: Ph.D. Candidate, University of South Carolina
   - Topic: Process Knowledge-infused Learning and Reasoning
-- **2017 – 2019**: Ph.D., University of Texas at Dallas
+- **2017 – 2020**: Ph.D. Student, University of Texas at Dallas (Transferred to South Carolina in 2020)
   - Topic: Relational Sequential Decision Making
 - **2015 – 2017**: M.Sc. Computer Science, Indiana University Bloomington
   - Specialization: Artificial Intelligence and Machine Learning
