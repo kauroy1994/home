@@ -12,6 +12,6 @@ Feel free to contact me by sending me an email or connecting with me on LinkedIn
 
 My [Google Scholar](https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en) Statistics, as of July 7th, 2024 
 
-<img src="https://github.com/kauroy1994/home/assets/57400980/5967e4ce-4b36-4ebc-a624-211b582b44a1" width="200" height="200">
+<img src="https://github.com/kauroy1994/home/assets/57400980/5967e4ce-4b36-4ebc-a624-211b582b44a1" width="500" height="500">
 
 
