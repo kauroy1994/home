@@ -8,3 +8,7 @@ I am Kaushik Roy, a Ph.D. candidate at the <img src="https://github.com/kauroy19
 
 
 Feel free to contact me by sending me an email or connecting with me on LinkedIn to explore potential collaborations or just to chat about the fascinating world of AI!
+
+## Google Scholar Statistics, as of July 7th, 2024.
+![image](https://github.com/kauroy1994/home/assets/57400980/5967e4ce-4b36-4ebc-a624-211b582b44a1)
+
