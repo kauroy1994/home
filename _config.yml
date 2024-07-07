@@ -22,9 +22,9 @@ repository               : "kauroy1994/kauroy1994.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : &name "Quick Links"
+  name             : &name "Follow Links"
   pronouns         : # example: "she/her"  
-  bio              : &bio "Links to my Google Scholar, and Socials"
+  bio              : &bio "Links to my Google Scholar and Socials"
   location         : "South Carolina"
   employer         : "University of South Carolina"
   uri              : # URL
