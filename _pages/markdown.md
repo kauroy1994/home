@@ -47,15 +47,15 @@ author_profile: true
 
 15. **Kaushik Roy**, Zhang, Q., Gaur, M., & Sheth, A. (2021). Knowledge-infused Policy Gradients with Upper Confidence Bound for Relational Bandits. In Machine Learning and Knowledge Discovery in Databases. Research Track: European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Springer International Publishing (Vol. 1, no. 21, pp. 35-50) [[paper](https://arxiv.org/pdf/2106.13895)].
 
-16. Bhat, A., and Roy, Kaushik. (2016). "Optimized KNN for Sequential Execution." International Conference on Inventive Computation Technologies.
+16. Bhat, A., & **Kaushik Roy**. (2016, August). Optimized KNN for Sequential Execution. In 2016 International Conference on Inventive Computation Technologies (ICICT) (Vol. 1, pp. 1-6) [[paper](https://ieeexplore.ieee.org/iel7/7811903/7823173/07823178.pdf?casa_token=4nQpFXn8kj4AAAAA:4KzvN1J-2OqcFmPP02mz8zBbKzLJOopxOWU5MvTwend0CPvB5crLsJMj3ZPZVHMzIqtvYYFt)].
 
-17. Nasreen, A., Roy, Kaushik, Roy, K., and Shobha, G. (2015). "Key Frame Extraction and Foreground Modelling using K-means Clustering." International Conference on Computational Intelligence, Communication Systems and Networks.
+17. Nasreen, A., **Kaushik Roy**, Roy, K., & Shobha, G. (2015, June). Key Frame Extraction and Foreground Modelling using K-means Clustering. In 2015 7th International Conference on Computational Intelligence, Communication Systems and Networks (pp. 141-145) [[paper](https://www.researchgate.net/profile/Azra-Nasreen/publication/308734509_Key_Frame_Extraction_and_Foreground_Modelling_Using_K-Means_Clustering/links/5ecd0b0592851c313aeab85d/Key-Frame-Extraction-and-Foreground-Modelling-Using-K-Means-Clustering.pdf)].
 
-18. Bhat, A.G., Roy, Kaushik, Anchalia, P.P., and Jeevith, H.M. (2015). "Design and Implementation of a Dynamic Intelligent Traffic Control System." UKSim-AMSS International Conference on Modelling and Simulation.
+18. Bhat, A. G., **Kaushik Roy**, Anchalia, P. P., & Jeevith, H. M. (2015, March). Design and Implementation of a Dynamic Intelligent Traffic Control System. In 2015 17th UKSim-AMSS International Conference on Modelling and Simulation (UKSim) (pp. 369-373) [[paper](https://uksim.info/uksim2015/data/8713a369.pdf)].
 
-19. Anchalia, P.P., Roy, Kaushik, and Roy, K. (2015). "Two Class Fisher's Linear Discriminant Analysis Using MapReduce." UKSim-AMSS International Conference on Modelling and Simulation.
+19. Anchalia, P. P., **Kaushik Roy**, & Roy, K. (2015, March). Two Class Fisher's Linear Discriminant Analysis Using MapReduce. In 2015 17th UKSim-AMSS International Conference on Modelling and Simulation (UKSim) (pp. 463-469) [[paper](https://uksim.info/uksim2015/data/8713a463.pdf)].
 
-20. Anchalia, P.P., and Roy, Kaushik. (2014). "The k-nearest Neighbor Algorithm using MapReduce Paradigm." International Conference on Intelligent Systems, Modelling and Simulation.
+20. Anchalia, P. P., & **Kaushik Roy** (2014, January). The K-nearest Neighbor Algorithm using MapReduce Paradigm. In 2014 5th International conference on intelligent systems, modelling and simulation (pp. 513-518) [[paper](https://ieeexplore.ieee.org/iel7/7279052/7280856/07280963.pdf?casa_token=3VPNSpjwnn0AAAAA:I8MrmSyx_dLv48JHRQaI3jSU4y9BjexWnHkWIBg_esmdN8EqW99TWrvLqla3Q_3Vs0uu0VbZ)].
 
 ## 📜 Symposium and Workshop Publications
 
