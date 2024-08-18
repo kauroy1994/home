@@ -112,7 +112,7 @@ author_profile: true
 3. Organizer, KiL 2023@KDD: 3rd International Workshop on Knowledge-infused Learning [[Website](https://aiisc.ai/kiml2023/)].
 4. Organizer, Collaborative Assistants for the Society's (CASY) 2022: 2nd Edition [[Website](https://www.cse.sc.edu/event/collaborative-assistants-society)].
 
-### 💡 Proposal Writing Experience
+### 💡 Proposal Contributions
 1. [NSF EAGER Award #2335967 - Knowledge-guided Neurosymbolic AI with Gaurdrails for Safe Virtual Health Assistants](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335967) for 2023-2025. Principle Investigator: Amit Sheth.
 2. [NSF EAGER Award #2133842 - Advancing Neurosymbolic AI with Deep Knowledge-infused Learning](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133842&HistoricalAwards=false) for 2022-2024. Principle Investigator: Amit Sheth.
 3. [EPSRC-UKRI grant on Time-sensitive Sensing of Language and User-generated Content](https://wiki.aiisc.ai/index.php?title=Moments_of_Change_in_Mood_(Switch/Escalation)) awarded by the Alan Turing Institute for 2021-22. Principle Investigator: Manas Gaur.
