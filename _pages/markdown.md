@@ -102,11 +102,11 @@ author_profile: true
 ## 🏫 Teaching and Academic Service
 
 ### 📹 Guest Lectures
-1. Guest Lecture on **Constrained Optimization**, [CSCE 590: Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
-2. Guest Lecture on **Transformers and Liquid Time Networks**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
-3. Guest Lecture on **Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
-4. Guest Lecture on **Automatic Differentiation and Optimization Strategies**, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2023).
-5. Guest Lecture on **Interpretable Machine Learning and Hoeffdings Inequality**, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2022) [[Video](https://www.youtube.com/watch?v=0oCELvPrkMk&list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc&index=2&pp=gAQBiAQB)].
+1. **Constrained Optimization**, [CSCE 590: Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
+2. **Transformers and Liquid Time Networks**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
+3. **Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
+4. **Automatic Differentiation and Optimization Strategies**, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2023).
+5. **Interpretable Machine Learning and Hoeffdings Inequality**, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2022) [[Video](https://www.youtube.com/watch?v=0oCELvPrkMk&list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc&index=2&pp=gAQBiAQB)].
 
 ### 🏛️ Administrative Roles
 1. **Guest Editor** for [IEEE Internet Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4236) Special Issue on Civilizing and Humanizing AI [[Website](https://aiisc.ai/Special.html)]
