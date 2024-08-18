@@ -59,61 +59,43 @@ author_profile: true
 
 ## 📜 Symposium and Workshop Publications
 
-1. Roy, Kaushik, Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., and Sheth, A. (2024). "Causal Event Graph-Guided Language-based Spatiotemporal Question Answering." AAAI Spring Symposium on Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge.
+1. **Kaushik Roy**, Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., & Sheth, A. (2024, May). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 227-233) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31204/33364)].
 
-2. Zi, Y., Roy, Kaushik, Narayanan, V., and Sheth, A. (2024). "Exploring Alternative Approaches to Language Modeling for Learning from Data and Knowledge." AAAI Spring Symposium on Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge.
+2. Zi, Y., **Kaushik Roy**, Narayanan, V., & Sheth, A. (2024, May). Exploring Alternative Approaches to Language Modeling for Learning from Data and Knowledge. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 279-286) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31211/33371)].
 
-3. Raj, K., Roy, Kaushik, and Gaur, M. (2024). "K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries." AAAI Spring Symposium on Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge.
+3. Raj, K., **Kaushik Roy**, Bonagiri, V., Govil, P., Thirunarayan, K., Goswami, R., & Gaur, M. (2024, May). K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 219-226) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31203/33363)].
 
-4. Zi, Y., Roy, Kaushik, and Sheth, A. (2024). "RDR: the Recap, Deliberate, and Respond Method for Enhanced Language Understanding." AAAI Workshop on Neuro-Symbolic Learning and Reasoning in the Era of Large Language Models.
+4. Zi, Y., Veeramani, H., **Kaushik Roy**, & Sheth, A. P. (2023, December). RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding. In Neuro-Symbolic Learning and Reasoning in the era of Large Language Models [[paper](https://openreview.net/forum?noteId=vWJhZ2s4f5)].
 
-5. Shiri, A., Roy, Kaushik, Sheth, A., Gaur, M. (2024). "L3 Ensembles: Lifelong Learning Approach for Ensemble of Foundational Language Models." ACM CODS-COMAD Young Researchers Symposium.
+5. Shiri, A., **Kaushik Roy**, Sheth, A., & Gaur, M. (2024, January). L3 Ensembles: Lifelong Learning Approach for Ensemble of Foundational Language Models✱. In Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD) (pp. 592-594) [[paper](https://dl.acm.org/doi/pdf/10.1145/3632410.3632494?casa_token=D084gG1akk0AAAAA:S1DBKZNdF3PXGEQzvgEOMgXAn9Ynw-Mq-iNXy-8zHZAGCUzYgeq-D-yGxEN_uKmVZgWZgjYygck)].
 
-6. Roy, Kaushik, Zi, Y., Narayanan, V., Gaur, M., and Sheth, A. (2023). "KSAT: Knowledge-infused Self Attention Transformer–Integrating Multiple Domain-Specific Contexts." KDD Workshop on Knowledge-infused Learning.
+6. **Kaushik Roy**, Zi, Y., Gaur, M., Malekar, J., Zhang, Q., Narayanan, V., & Sheth, A. (2023, October). Process Knowledge-infused Learning for Clinician-friendly Explanations. In Proceedings of the AAAI Symposium Series (Vol. 1, No. 1, pp. 154-160) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/27494/27267)].
 
-7. Roy, Kaushik, Zi, Y., Narayanan, V., Gaur, M., and Sheth, A. (2023). "Knowledge-Infused Self Attention Transformers." KDD Workshop on Knowledge Augmented Methods for NLP.
+7. Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., ..., **Kaushik Roy**, ... & Liakata, M. (2022, July). Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 184-198) [[paper](https://aclanthology.org/2022.clpsych-1.16.pdf)].
 
-8. Zi, Y., Roy, Kaushik, Narayanan, V., Gaur, M., and Sheth, A. (2023). "IERL: Interpretable Ensemble Representation Learning–Combining CrowdSourced Knowledge and Distributed Semantic Representations." KDD Workshop on Knowledge-infused Learning.
+8. Gupta, S., Agarwal, A., Gaur, M., **Kaushik Roy**, Narayanan, V., Kumaraguru, P., & Sheth, A. (2022). Learning to Automate Follow-up Question Generation Using Process Knowledge for Depression Triage on Reddit Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 137-147) [[paper](https://aclanthology.org/2022.clpsych-1.12/)].
 
-9. Roy, Kaushik, Zi, Y., Gaur, M., Malekar, J., Zhang, Q., Narayanan, V., and Sheth, A. (2023). "Process Knowledge-infused Learning for Clinician-friendly Explanations." AAAI Symposium on Human Partnership with Medical Artificial Intelligence.
+9. **Kaushik Roy**, Rawte, V., Chakraborty, M., Gaur, M., Faldu, K., Kikani, P., ... & Sheth, A. P. TDLR: Top Semantic-Down Syntactic Language Representation. In NeurIPS'22 Workshop on All Things Attention: Bridging Different Perspectives on Attention [[paper](https://attention-learning-workshop.github.io/2022/papers/rawte-tdlr_top_semanticdown_syntactic_language_representation.pdf)].
 
-10. Tsakalidis, A., Chim, J., Bilal, I.M., Zirikly, A., Atzil-Slonim, D., Nanni, F., Resnik, P., Roy, Kaushik, et al. (2022). "Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts." NAACL Workshop on Computational Linguistics and Clinical Psychology.
+10. Lokala, U., Lamy, F., Dastidar, T. G., **Kaushik Roy**, Daniulaityte, R., Parthasarathy, S., & Sheth, A. (2021). eDarkTrends: Harnessing Social Media Trends in Substance Use Disorders for Opioid Listings on Cryptomarket. In ICLR AI for Public Health Workshop 2021 [[paper](https://arxiv.org/abs/2103.15764)].
 
-11. Gupta, S., Agarwal, A., Gaur, M., Roy, Kaushik, Narayanan, V., Kumaraguru, P., and Sheth, A. (2022). "Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts." NAACL Workshop on Computational Linguistics and Clinical Psychology.
+## 📹 Tutorials and Talks
 
-12. Roy, Kaushik, Rawte, V., Chakraborty, M., Gaur, M., Faldu, K., Kikani, P., Akbari, H., and Sheth, A. (2022). "TDLR: Top (Semantic)-Down (Syntactic) Language Representation." NeurIPS Workshop on All Things Attention.
+1. **Kaushik Roy**. "Healthcare Assistance Challenges-Driven Neurosymbolic AI,” invited talk at Ontolog Summit 2024, April 2024 [[Abstract](https://ontologforum.com/index.php/ConferenceCall_2024_04_24)][[Slides](https://ontologforum.s3.amazonaws.com/OntologySummit2024/TrackC/Healthcare-Assistance-Challenges-Driven-Neurosymbolic-AI--KaushikRoy_20240424.pdf)][[Video](https://www.youtube.com/watch?v=kptZoV20zvQ&list=PLqJzTtkUiq55fsHfNyDWmHtHJsurM8mX7&index=6&pp=iAQB)].
 
-13. Dolbir, N., Dastidar, T., and Roy, Kaushik. (2021). "NLP is Not enough–Contextualization of User Input in Chatbots." KGC Workshop on Knowledge-infused Learning.
+2. **Kaushik Roy**. Knowledge-infused Neurosymbolic Artificial Intelligence for Mental Healthcare. Intelligent Clinical Care Center, University of Florida, January 2024 [[Slides](https://lnkd.in/eVCzinAk)].
 
-14. Lokala, U., Lamy, F., Dastidar, T.G., Roy, Kaushik, Daniulaityte, R., Parthasarathy, S., and Sheth, A. (2021). "eDarkTrends: Harnessing Social Media Trends in Substance use disorders for Opioid Listings on Cryptomarket." ICLR Workshop on AI for Public Health.
+3. Lokala, U., **Kaushik Roy**, Jaimini, U., and Sheth, A. (2023). "Causal AI for Web and Health Care." ACM Web Conference [[Website](https://aiisc.ai/causalai/)].
 
-15. Roy, Kaushik, Zhang, Q., Gaur, M., and Sheth, A. (2021). "Knowledge-infused Policy Gradients for Adaptive Pandemic Control." AAAI Symposium on Combining Machine Learning and Knowledge Engineering.
+6. **Kaushik Roy**, Gaur, M., Zhang, Q., and Sheth, A. (2022). "Knowledge-infused Reinforcement Learning." Knowledge Graph Conference [[Website](https://aiisc.ai/kirl/)].
 
-16. Roy, Kaushik, Lokala, U., Khandelwal, V., and Sheth, A. (2021). "" Is Depression Related to Cannabis?": A Knowledge-infused Model for Entity and Relation Extraction with Limited Supervision." AAAI Symposium on Combining Machine Learning and Knowledge Engineering.
+7. **Kaushik Roy**, Lokala, U., Gaur, M., and Sheth, A.P. (2022). "Neuro-symbolic AI for Mental Healthcare." International Conference on AI-ML Systems [[Website](https://aiisc.ai/neurone/)].
 
-17. Asawa, P., Gaur, M., Roy, Kaushik, and Sheth, A. (2020). "COVID-19 in Spain and India: Comparing Policy Implications by Analyzing Epidemiological and Social Media Data." AAAI Symposium on AI for Social Good.
+8. Lokala, U., Gaur, M., **Kaushik Roy**, and Sheth, A. (2021). "Knowledge infused Natural Language understanding for Public Health, Epidemiology, and Substance Use." IJCAI Workshop on Mining Actionable Insights from Social Networks [[Video](https://www.youtube.com/watch?v=pRUXTuxm3as)].
 
-## 📰 Tutorials and Talks
+9. Sheth, A., **Kaushik Roy**, Gaur, M., and Lokala, U. (2021). "Knowledge In-Wisdom Out-Explainable Data for AI in Cyber Social Threats and Public Health." AAAI Conference on Web and Social Media [[Website](https://aiisc.ai/kiwo-icwsm/)].
 
-1. Roy, Kaushik, Chakraborty, M., Zi, Y., Gaur, M., Sheth, A. (2024). "Neurosymbolic Customized and Compact CoPilots." International Semantic Web Conference.
-
-2. Roy, Kaushik. (2024). "Healthcare Assistance Challenges-Driven Neurosymbolic AI." Track C Applications to Healthcare, Ontolog Summit.
-
-3. Roy, Kaushik. (2024). "Keynote: Neurosymbolic AI-based Decision-Making for Mental Healthcare." University of Florida Health, Intelligent Critical Care Center.
-
-4. Lokala, U., Roy, Kaushik, Jaimini, U., and Sheth, A. (2023). "Tutorial: Causal AI for Web and Health Care." ACM Web Conference.
-
-5. Roy, Kaushik. (2023). "Tutorial: Knowledge-infused Artificial Intelligence for Mental Healthcare." Shodhguru Labs.
-
-6. Roy, Kaushik, Gaur, M., Zhang, Q., and Sheth, A. (2022). "Knowledge-infused Reinforcement Learning." Knowledge Graph Conference.
-
-7. Roy, Kaushik, Lokala, U., Gaur, M., and Sheth, A.P. (2022). "Tutorial: Neuro-symbolic AI for Mental Healthcare." International Conference on AI-ML Systems.
-
-8. Lokala, U., Gaur, M., Roy, Kaushik, and Sheth, A. (2021). "Knowledge infused Natural Language understanding for Public Health, Epidemiology, and Substance Use." IJCAI Workshop on Mining Actionable Insights from Social Networks.
-
-9. Sheth, A., Roy, Kaushik, Gaur, M., and Lokala, U. (2021). "Tutorial on Knowledge In-Wisdom Out-Explainable Data for AI in Cyber Social Threats and Public Health." AAAI Conference on Web and Social Media.
-
-10. Gaur, M., and Roy, Kaushik. (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin.
+10. Gaur, M., and **Kaushik Roy** (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin [[Video](https://www.youtube.com/watch?v=NHTSm5TW7E0)].
 
 ## 📖 Teaching and Academic Service
 
