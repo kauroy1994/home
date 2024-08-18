@@ -97,18 +97,22 @@ author_profile: true
 
 10. Gaur, M., and **Kaushik Roy** (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin [[Video](https://www.youtube.com/watch?v=NHTSm5TW7E0)].
 
-## 📖 Teaching and Academic Service
+## 🏫 Teaching and Academic Service
 
-- Guest Lecture, Topic: Constrained Optimization. Class: CSCE 590 - Optimization . Professor: Vignesh Narayanan, University of South Carolina (2024).
-- Guest Editor, IEEE Internet Computing Special Issue: Civilizing and Humanizing AI
-- Program Committee Member, @ICML 2024: Reliability and Dependability of AI Workshop
-- Program Committee Member, @AAAI 2024: AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering
-- Co-organizer, KiL 2023@KDD: 3rd International Workshop on Knowledge-infused Learning
-- Co-organizer, Collaborative Assistants for the Society's (CASY) 2022: 2nd Edition.
-- Guest Lecturer, Topic: Transformers and Liquid Time Networks. Class: Introduction to Neural Networks. Professor: Vignesh Narayanan, University of South Carolina (2023).
-- Guest Lecture, Topic: Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings. Class: Introduction to Neural Networks. Professor: Vignesh Narayanan, University of South Carolina (2023).
-- Guest Lecture, Topic: Automatic Differentiation and Optimization Strategies. Class: Introduction to Machine Learning. Professor: Manas Gaur, University of Maryland Baltimore County (2023).
-- Guest Lecture, Topic: Interpretable Machine Learning and Hoeffdings Inequality. Class: Introduction to Machine Learning. Professor: Manas Gaur, University of Maryland Baltimore County (2022).
-- Grant Writing: Contributed to NSF EAGER Award #2335967 - Knowledge-guided Neurosymbolic AI with Gaurdrails for Safe Virtual Health Assistants for 2023-2025. Principle Investigator: Amit Sheth.
-- Grant Writing: Contributed to NSF EAGER Award #2133842 - Advancing Neurosymbolic AI with Deep Knowledge-infused Learning for 2022-2024. Principle Investigator: Amit Sheth.
-- Grant Writing: Contributed to EPSRC-UKRI grant on Time-sensitive sensing of language and user-generated content awarded by the Alan Turing Institute for 2021-22. Principle Investigator: Manas Gaur.
+### 📹 Guest Lectures
+1. Guest Lecture on Constrained Optimization, [CSCE 590: Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
+2. Guest Lecture on Transformers and Liquid Time Networks, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
+3. Guest Lecture on Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
+4. Guest Lecture on Automatic Differentiation and Optimization Strategies, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2023) [[Video]()].
+5. Guest Lecture on Interpretable Machine Learning and Hoeffdings Inequality, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2022) [[Video](https://www.youtube.com/watch?v=0oCELvPrkMk&list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc&index=2&pp=gAQBiAQB)].
+
+### 🏛️ Administrative Roles
+1. Guest Editor for IEEE Internet Computing Special Issue on Civilizing and Humanizing AI [[Website](https://aiisc.ai/Special.html)]
+2. Program Committee Member, @AAAI 2024: AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering [[Website](https://kastle-lab.github.io/llms-and-kg-engineering/)]
+3. Organizer, KiL 2023@KDD: 3rd International Workshop on Knowledge-infused Learning [[Website](https://aiisc.ai/kiml2023/)].
+4. Organizer, Collaborative Assistants for the Society's (CASY) 2022: 2nd Edition [[Website](https://www.cse.sc.edu/event/collaborative-assistants-society)].
+
+### 💡 Grant Writing Contributions
+- [NSF EAGER Award #2335967 - Knowledge-guided Neurosymbolic AI with Gaurdrails for Safe Virtual Health Assistants](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335967) for 2023-2025. Principle Investigator: Amit Sheth.
+- [NSF EAGER Award #2133842 - Advancing Neurosymbolic AI with Deep Knowledge-infused Learning](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133842&HistoricalAwards=false) for 2022-2024. Principle Investigator: Amit Sheth.
+- [EPSRC-UKRI grant on Time-sensitive Sensing of Language and User-generated Content](https://wiki.aiisc.ai/index.php?title=Moments_of_Change_in_Mood_(Switch/Escalation)) awarded by the Alan Turing Institute for 2021-22. Principle Investigator: Manas Gaur.
