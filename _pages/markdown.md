@@ -6,13 +6,13 @@ author_profile: true
 
 ## 🏫 Education
 
-- **2020 – Present**: Ph.D. Candidate, University of South Carolina
+- **2020 – Present**: Ph.D. Candidate, [University of South Carolina](https://sc.edu/)
   - Topic: Process Knowledge-infused Learning and Reasoning
-- **2017 – 2020**: Ph.D. Student, University of Texas at Dallas (Transferred in 2020)
+- **2017 – 2020**: Ph.D. Student, [University of Texas at Dallas](https://www.utdallas.edu/) (Transferred in 2020)
   - Topic: Relational Sequential Decision Making
-- **2015 – 2017**: M.Sc. Computer Science, Indiana University Bloomington
+- **2015 – 2017**: M.Sc. Computer Science, [Indiana University Bloomington](https://bloomington.iu.edu/index.html)
   - Specialization: Artificial Intelligence and Machine Learning
-- **2011 – 2015**: B.E. Computer Science, RV College of Engineering
+- **2011 – 2015**: B.E. Computer Science, [RV College of Engineering](https://www.rvce.edu.in/)
   - Thesis title: Computer Vision Algorithms for Background Understanding
 
 ## 📰 Journal and Conference Publications
