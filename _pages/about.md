@@ -9,12 +9,12 @@ I am Kaushik Roy, a Ph.D. candidate at the <img src="https://github.com/kauroy19
 
 Feel free to contact me by sending me an email or connecting with me on LinkedIn to explore potential collaborations or just to chat about the fascinating world of AI!
 
-## ℹ️ Below are my [Google Scholar](https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en) statistics, as of Aug 18th, 2024.
-📈 Citations: 837
+## ℹ️ Below are my [Google Scholar](https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en) statistics, as of Aug 19th, 2024.
+📈 Citations: 864
 
-📈 h-index: 17
+📈 h-index: 18
 
-📈 Number of Articles: 50
+📈 Number of Articles: 51
 
 ## ℹ️ Some Quick Links to Help Navigate My Webpage
 🔗 [Select Publications](https://kauroy1994.github.io/home/publications/)
