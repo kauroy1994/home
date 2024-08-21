@@ -115,6 +115,7 @@ for Neurosymbolic Learning and Reasoning [[Website](https://www.mdpi.com/journal
 3. **Program Committee**, @AAAI 2024: AAAI Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering [[Website](https://kastle-lab.github.io/llms-and-kg-engineering/)]
 4. **Organizing Committee**, KiL 2023@KDD: 3rd International Workshop on Knowledge-infused Learning [[Website](https://aiisc.ai/kiml2023/)].
 5. **Organizing Committee**, Collaborative Assistants for the Society's (CASY) 2022: 2nd Edition [[Website](https://www.cse.sc.edu/event/collaborative-assistants-society)].
+6. **Hackathon Committee**, Knowledge Graph and Semantic Web Conference (KGSWC) 2021 [[Website](https://www.researchgate.net/publication/356500650_Knowledge_Graphs_and_Semantic_Web)]
 
 ### 💡 Proposal Contributions
 1. [NSF EAGER Award #2335967 - Knowledge-guided Neurosymbolic AI with Gaurdrails for Safe Virtual Health Assistants](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335967) for 2023-2025. Principle Investigator: Amit Sheth.
