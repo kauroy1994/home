@@ -21,7 +21,7 @@ author_profile: true
 1. **Kaushik Roy**, Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). "Proknow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models." [Science and Technology - Recent Updates and Future Prospects](https://www.bookpi.org/bookstore/product/science-and-technology-recent-updates-and-future-prospects-vol-1/) (to appear in Vol. 2) [[chapter preprint](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1631&context=aii_fac_pub)].
 
 ### 📔 Journal Publications
-1. Sheth, A., Pallagani, V., and **Kaushik Roy**. (2024) Neurosymbolic AI for Enhancing Instructability in Generative AI. IEEE Intelligent Systems [[paper](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1629&context=aii_fac_pub](https://arxiv.org/pdf/2407.18722)].
+1. Sheth, A., Pallagani, V., and **Kaushik Roy**. (2024) Neurosymbolic AI for Enhancing Instructability in Generative AI. IEEE Intelligent Systems [[paper](https://arxiv.org/pdf/2407.18722)].
 
 2. **Kaushik Roy**. Healthcare Assistance Challenges-Driven Neurosymbolic AI (2024). Biomedical Journal of Science & Technical Research (Vol. 58, Issue 2) [[paper](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1629&context=aii_fac_pub)].
    
