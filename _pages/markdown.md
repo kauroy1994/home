@@ -109,7 +109,7 @@ author_profile: true
 ## 🏫 Teaching and Academic Service
 
 ### 📹 Guest Lectures
-1. **Knowledge-infused Neurosymbolic AI:Knowledge Graphs for Enhanced Semantics**, [CMSC-691 - Knowledge-powered NeuroSymbolic AI for Explainability, Interpretability, and Safety](https://kil-workshop.github.io/CMSC691/), University of Maryland Baltimore County (2024) [[Slides](https://docs.google.com/presentation/d/1inYKPZSE39bE4zjbhSDaG21X1KcE8A8bB1DRvIHJ6bw/edit#slide=id.g1128630b8af_0_1151)].
+1. **Knowledge-infused Neurosymbolic AI: Knowledge Graphs for Enhanced Semantics**, [CMSC-691 - Knowledge-powered NeuroSymbolic AI for Explainability, Interpretability, and Safety](https://kil-workshop.github.io/CMSC691/), University of Maryland Baltimore County (2024) [[Slides](https://docs.google.com/presentation/d/1inYKPZSE39bE4zjbhSDaG21X1KcE8A8bB1DRvIHJ6bw/edit#slide=id.g1128630b8af_0_1151)].
 2. **Constrained Optimization**, [CSCE 590: Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
 3. **Transformers and Liquid Time Networks**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
 4. **Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
