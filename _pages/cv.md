@@ -12,7 +12,7 @@ author_profile: true
 ###  Abstract
 Building Cognitive Architecture Inspired Neurosymbolic AI Systems for Egocentric Activity Recognition.
 ### Relevant Publication(s)
-1. Roy, K., Wu, S., Oltramari, A. (2024). Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning. To appear in: The Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press [[paper](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1331&context=csce_facpub)].
+1. Roy, K., Wu, S., Oltramari, A. (2024). Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning. To appear in: The Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press [[chapter preprint](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1331&context=csce_facpub)].
 
 ## <img src="https://github.com/kauroy1994/home/assets/57400980/8891649c-c178-41b9-8182-18d9c138fc95" width="50" height="50"> Artificial Intelligence Researcher, [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Summer 2023
 ###  Abstract
