@@ -13,7 +13,7 @@ author_profile: true
 - **2015 – 2017**: M.Sc. Computer Science, [Indiana University Bloomington](https://bloomington.iu.edu/index.html)
   - Specialization: Artificial Intelligence and Machine Learning
 - **2011 – 2015**: B.E. Computer Science, [RV College of Engineering](https://www.rvce.edu.in/)
-  - Thesis title: Computer Vision Algorithms for Background Understanding [[Thesis Document]()]
+  - Thesis title: Computer Vision Algorithms for Background Understanding [[Thesis Document](https://shorturl.at/JZvLT)]
 
 ## 📚 Publications
 
