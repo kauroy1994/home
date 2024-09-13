@@ -9,7 +9,7 @@ author_profile: true
 - **2020 – Present**: Ph.D. Candidate, [University of South Carolina](https://sc.edu/)
   - Topic: Process Knowledge-infused Learning and Reasoning
 - **2017 – 2020**: Ph.D. Student, [University of Texas at Dallas](https://www.utdallas.edu/) (Transferred in 2020)
-  - Topic: Relational Sequential Decision Making
+  - Topic: Relational Sequential Decision Making [[Qualifier Document](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1604&context=aii_fac_pub)]
 - **2015 – 2017**: M.Sc. Computer Science, [Indiana University Bloomington](https://bloomington.iu.edu/index.html)
   - Specialization: Artificial Intelligence and Machine Learning
 - **2011 – 2015**: B.E. Computer Science, [RV College of Engineering](https://www.rvce.edu.in/)
