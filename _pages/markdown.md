@@ -109,9 +109,9 @@ author_profile: true
 ## 🏫 Teaching and Academic Service
 
 ### 📹 Guest Lectures
-1. **AI in Healthcare (with a focus on using Knowledge-infused Neurosymbolic AI)**, [CSCE-791 - Seminar in Advances in Computing](https://cse.sc.edu/~sur/csce791_f20/index.html), University of South Carolina (2024) [[Slides](https://docs.google.com/presentation/d/1Qs2lW1gA8DmupuYHuOjim_fLLEg2Pcv1zh2FR1w3AOk/edit?usp=sharing)]
+1. **AI in Healthcare (with a focus on using Knowledge-infused Neurosymbolic AI)**, [CSCE 791 - Seminar in Advances in Computing](https://cse.sc.edu/~sur/csce791_f20/index.html), University of South Carolina (2024) [[Slides](https://docs.google.com/presentation/d/1Qs2lW1gA8DmupuYHuOjim_fLLEg2Pcv1zh2FR1w3AOk/edit?usp=sharing)]
 2. **Knowledge-infused Neurosymbolic AI: Knowledge Graphs for Enhanced Semantics**, [CMSC-691 - Knowledge-powered NeuroSymbolic AI for Explainability, Interpretability, and Safety](https://kil-workshop.github.io/CMSC691/), University of Maryland Baltimore County (2024) [[Slides](https://docs.google.com/presentation/d/1inYKPZSE39bE4zjbhSDaG21X1KcE8A8bB1DRvIHJ6bw/edit#slide=id.g1128630b8af_0_1151)].
-3. **Constrained Optimization**, [CSCE 590: Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
+3. **Constrained Optimization**, [CSCE 590 - Optimization](https://vigsnar.github.io/teaching.html), University of South Carolina (2024).
 4. **Transformers and Liquid Time Networks**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
 5. **Recurrent Neural Networks, Long-term Short-term Memory, Neural Ordinary Differential Equations, and Positional Encodings**, [CSCE 790 - Neural Networks and Their Applications](https://vigsnar.github.io/csce.html), University of South Carolina (2023).
 6. **Automatic Differentiation and Optimization Strategies**, [CMSC-478 - Introduction to Machine Learning](https://manasgaur.github.io/Courses/#), University of Maryland Baltimore County (2023).
