@@ -90,7 +90,7 @@ author_profile: true
 
 ## 📹 Tutorials and Talks
 
-1. **Kaushik Roy**, Megha Chakraborty, Yuxin Zi, Manas Gaur, and Amit Sheth. "Neurosymbolic Customized and Compact CoPilots” at International Semantic Web Conference, Nov. 2024 [[Webpage](https://kauroy1994.github.io/ISWC-2024-Tutorial-Neurosymbolic-Customized-and-Compact-CoPilots/)]
+1. **Kaushik Roy**, Megha Chakraborty, Yuxin Zi, Manas Gaur, and Amit Sheth. "Neurosymbolic Customized and Compact CoPilots” at International Semantic Web Conference, Nov. 2024 [[Website](https://kauroy1994.github.io/ISWC-2024-Tutorial-Neurosymbolic-Customized-and-Compact-CoPilots/)]
 
 2. **Kaushik Roy**. "Healthcare Assistance Challenges-Driven Neurosymbolic AI,” invited talk at Ontolog Summit 2024, April 2024 [[Abstract](https://ontologforum.com/index.php/ConferenceCall_2024_04_24)][[Slides](https://ontologforum.s3.amazonaws.com/OntologySummit2024/TrackC/Healthcare-Assistance-Challenges-Driven-Neurosymbolic-AI--KaushikRoy_20240424.pdf)][[Video](https://www.youtube.com/watch?v=kptZoV20zvQ&list=PLqJzTtkUiq55fsHfNyDWmHtHJsurM8mX7&index=6&pp=iAQB)].
 
