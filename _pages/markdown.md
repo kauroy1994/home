@@ -90,21 +90,23 @@ author_profile: true
 
 ## 📹 Tutorials and Talks
 
-1. **Kaushik Roy**. "Healthcare Assistance Challenges-Driven Neurosymbolic AI,” invited talk at Ontolog Summit 2024, April 2024 [[Abstract](https://ontologforum.com/index.php/ConferenceCall_2024_04_24)][[Slides](https://ontologforum.s3.amazonaws.com/OntologySummit2024/TrackC/Healthcare-Assistance-Challenges-Driven-Neurosymbolic-AI--KaushikRoy_20240424.pdf)][[Video](https://www.youtube.com/watch?v=kptZoV20zvQ&list=PLqJzTtkUiq55fsHfNyDWmHtHJsurM8mX7&index=6&pp=iAQB)].
+1. **Kaushik Roy**, Megha Chakraborty, Yuxin Zi, Manas Gaur, and Amit Sheth. "Neurosymbolic Customized and Compact CoPilots” at International Semantic Web Conference, Nov. 2024 [[Webpage](https://kauroy1994.github.io/ISWC-2024-Tutorial-Neurosymbolic-Customized-and-Compact-CoPilots/)]
 
-2. **Kaushik Roy**. Knowledge-infused Neurosymbolic Artificial Intelligence for Mental Healthcare. Intelligent Clinical Care Center, University of Florida, January 2024 [[Slides](https://lnkd.in/eVCzinAk)].
+2. **Kaushik Roy**. "Healthcare Assistance Challenges-Driven Neurosymbolic AI,” invited talk at Ontolog Summit 2024, April 2024 [[Abstract](https://ontologforum.com/index.php/ConferenceCall_2024_04_24)][[Slides](https://ontologforum.s3.amazonaws.com/OntologySummit2024/TrackC/Healthcare-Assistance-Challenges-Driven-Neurosymbolic-AI--KaushikRoy_20240424.pdf)][[Video](https://www.youtube.com/watch?v=kptZoV20zvQ&list=PLqJzTtkUiq55fsHfNyDWmHtHJsurM8mX7&index=6&pp=iAQB)].
 
-3. Lokala, U., **Kaushik Roy**, Jaimini, U., and Sheth, A. (2023). "Causal AI for Web and Health Care." ACM Web Conference [[Website](https://aiisc.ai/causalai/)].
+3. **Kaushik Roy**. Knowledge-infused Neurosymbolic Artificial Intelligence for Mental Healthcare. Intelligent Clinical Care Center, University of Florida, January 2024 [[Slides](https://lnkd.in/eVCzinAk)].
 
-6. **Kaushik Roy**, Gaur, M., Zhang, Q., and Sheth, A. (2022). "Knowledge-infused Reinforcement Learning." Knowledge Graph Conference [[Website](https://aiisc.ai/kirl/)].
+4. Lokala, U., **Kaushik Roy**, Jaimini, U., and Sheth, A. (2023). "Causal AI for Web and Health Care." ACM Web Conference [[Website](https://aiisc.ai/causalai/)].
 
-7. **Kaushik Roy**, Lokala, U., Gaur, M., and Sheth, A.P. (2022). "Neuro-symbolic AI for Mental Healthcare." International Conference on AI-ML Systems [[Website](https://aiisc.ai/neurone/)].
+5. **Kaushik Roy**, Gaur, M., Zhang, Q., and Sheth, A. (2022). "Knowledge-infused Reinforcement Learning." Knowledge Graph Conference [[Website](https://aiisc.ai/kirl/)].
 
-8. Lokala, U., Gaur, M., **Kaushik Roy**, and Sheth, A. (2021). "Knowledge infused Natural Language understanding for Public Health, Epidemiology, and Substance Use." IJCAI Workshop on Mining Actionable Insights from Social Networks [[Video](https://www.youtube.com/watch?v=pRUXTuxm3as)].
+6. **Kaushik Roy**, Lokala, U., Gaur, M., and Sheth, A.P. (2022). "Neuro-symbolic AI for Mental Healthcare." International Conference on AI-ML Systems [[Website](https://aiisc.ai/neurone/)].
 
-9. Sheth, A., **Kaushik Roy**, Gaur, M., and Lokala, U. (2021). "Knowledge In-Wisdom Out-Explainable Data for AI in Cyber Social Threats and Public Health." AAAI Conference on Web and Social Media [[Website](https://aiisc.ai/kiwo-icwsm/)].
+7. Lokala, U., Gaur, M., **Kaushik Roy**, and Sheth, A. (2021). "Knowledge infused Natural Language understanding for Public Health, Epidemiology, and Substance Use." IJCAI Workshop on Mining Actionable Insights from Social Networks [[Video](https://www.youtube.com/watch?v=pRUXTuxm3as)].
 
-10. Gaur, M., and **Kaushik Roy** (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin [[Video](https://www.youtube.com/watch?v=NHTSm5TW7E0)].
+8. Sheth, A., **Kaushik Roy**, Gaur, M., and Lokala, U. (2021). "Knowledge In-Wisdom Out-Explainable Data for AI in Cyber Social Threats and Public Health." AAAI Conference on Web and Social Media [[Website](https://aiisc.ai/kiwo-icwsm/)].
+
+9. Gaur, M., and **Kaushik Roy** (2020). "Knowledge-infused Statistical Learning for Social Good Applications." PyData Berlin [[Video](https://www.youtube.com/watch?v=NHTSm5TW7E0)].
 
 ## 🏫 Teaching and Academic Service
 
