@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Curriculum Vitae, Updated September 14th 2024."
+title: "Curriculum Vitae, Updated November 14th 2024."
 author_profile: true
 ---
 
@@ -68,29 +68,31 @@ author_profile: true
 
 ### 📜 Symposium and Workshop Publications
 
-1. **Kaushik Roy**, Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., & Sheth, A. (2024, May). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 227-233) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31204/33364)].
+1. **Kaushik Roy**, Zi, Y., & Sheth, A. (2024, November). Towards Pragmatic Temporal Alignment in Stateful Generative AI Systems: A Configurable Approach. In Proceedings of the AAAI Symposium Series (Vol. 4, No. 1, pp. 388-390) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31821/33988)].
 
-2. Zi, Y., **Kaushik Roy**, Narayanan, V., & Sheth, A. (2024, May). Exploring Alternative Approaches to Language Modeling for Learning from Data and Knowledge. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 279-286) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31211/33371)].
+2. **Kaushik Roy**, Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., & Sheth, A. (2024, May). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 227-233) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31204/33364)].
 
-3. Raj, K., **Kaushik Roy**, Bonagiri, V., Govil, P., Thirunarayan, K., Goswami, R., & Gaur, M. (2024, May). K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 219-226) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31203/33363)].
+3. Zi, Y., **Kaushik Roy**, Narayanan, V., & Sheth, A. (2024, May). Exploring Alternative Approaches to Language Modeling for Learning from Data and Knowledge. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 279-286) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31211/33371)].
 
-4. Zi, Y., Veeramani, H., **Kaushik Roy**, & Sheth, A. P. (2023, December). RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding. In Neuro-Symbolic Learning and Reasoning in the era of Large Language Models [[paper](https://openreview.net/forum?noteId=vWJhZ2s4f5)].
+4. Raj, K., **Kaushik Roy**, Bonagiri, V., Govil, P., Thirunarayan, K., Goswami, R., & Gaur, M. (2024, May). K-PERM: Personalized Response Generation Using Dynamic Knowledge Retrieval and Persona-Adaptive Queries. In Proceedings of the AAAI Symposium Series (Vol. 3, No. 1, pp. 219-226) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/31203/33363)].
 
-5. Shiri, A., **Kaushik Roy**, Sheth, A., & Gaur, M. (2024, January). L3 Ensembles: Lifelong Learning Approach for Ensemble of Foundational Language Models✱. In Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD) (pp. 592-594) [[paper](https://dl.acm.org/doi/pdf/10.1145/3632410.3632494?casa_token=D084gG1akk0AAAAA:S1DBKZNdF3PXGEQzvgEOMgXAn9Ynw-Mq-iNXy-8zHZAGCUzYgeq-D-yGxEN_uKmVZgWZgjYygck)].
+5. Zi, Y., Veeramani, H., **Kaushik Roy**, & Sheth, A. P. (2023, December). RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding. In Neuro-Symbolic Learning and Reasoning in the era of Large Language Models [[paper](https://openreview.net/forum?noteId=vWJhZ2s4f5)].
 
-6. **Kaushik Roy**, Zi, Y., Gaur, M., Malekar, J., Zhang, Q., Narayanan, V., & Sheth, A. (2023, October). Process Knowledge-infused Learning for Clinician-friendly Explanations. In Proceedings of the AAAI Symposium Series (Vol. 1, No. 1, pp. 154-160) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/27494/27267)].
+6. Shiri, A., **Kaushik Roy**, Sheth, A., & Gaur, M. (2024, January). L3 Ensembles: Lifelong Learning Approach for Ensemble of Foundational Language Models✱. In Proceedings of the 7th Joint International Conference on Data Science & Management of Data (11th ACM IKDD CODS and 29th COMAD) (pp. 592-594) [[paper](https://dl.acm.org/doi/pdf/10.1145/3632410.3632494?casa_token=D084gG1akk0AAAAA:S1DBKZNdF3PXGEQzvgEOMgXAn9Ynw-Mq-iNXy-8zHZAGCUzYgeq-D-yGxEN_uKmVZgWZgjYygck)].
 
-7. Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., ..., **Kaushik Roy**, ... & Liakata, M. (2022, July). Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 184-198) [[paper](https://aclanthology.org/2022.clpsych-1.16.pdf)].
+7. **Kaushik Roy**, Zi, Y., Gaur, M., Malekar, J., Zhang, Q., Narayanan, V., & Sheth, A. (2023, October). Process Knowledge-infused Learning for Clinician-friendly Explanations. In Proceedings of the AAAI Symposium Series (Vol. 1, No. 1, pp. 154-160) [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/download/27494/27267)].
 
-8. Gupta, S., Agarwal, A., Gaur, M., **Kaushik Roy**, Narayanan, V., Kumaraguru, P., & Sheth, A. (2022). Learning to Automate Follow-up Question Generation Using Process Knowledge for Depression Triage on Reddit Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 137-147) [[paper](https://aclanthology.org/2022.clpsych-1.12/)].
+8. Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., ..., **Kaushik Roy**, ... & Liakata, M. (2022, July). Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 184-198) [[paper](https://aclanthology.org/2022.clpsych-1.16.pdf)].
 
-9. **Kaushik Roy**, Rawte, V., Chakraborty, M., Gaur, M., Faldu, K., Kikani, P., ... & Sheth, A. P. TDLR: Top Semantic-Down Syntactic Language Representation. In NeurIPS'22 Workshop on All Things Attention: Bridging Different Perspectives on Attention [[paper](https://attention-learning-workshop.github.io/2022/papers/rawte-tdlr_top_semanticdown_syntactic_language_representation.pdf)].
+9. Gupta, S., Agarwal, A., Gaur, M., **Kaushik Roy**, Narayanan, V., Kumaraguru, P., & Sheth, A. (2022). Learning to Automate Follow-up Question Generation Using Process Knowledge for Depression Triage on Reddit Posts. In Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (pp. 137-147) [[paper](https://aclanthology.org/2022.clpsych-1.12/)].
 
-10. Lokala, U., Lamy, F., Dastidar, T. G., **Kaushik Roy**, Daniulaityte, R., Parthasarathy, S., & Sheth, A. (2021). eDarkTrends: Harnessing Social Media Trends in Substance Use Disorders for Opioid Listings on Cryptomarket. In ICLR AI for Public Health Workshop 2021 [[paper](https://arxiv.org/abs/2103.15764)].
+10. **Kaushik Roy**, Rawte, V., Chakraborty, M., Gaur, M., Faldu, K., Kikani, P., ... & Sheth, A. P. TDLR: Top Semantic-Down Syntactic Language Representation. In NeurIPS'22 Workshop on All Things Attention: Bridging Different Perspectives on Attention [[paper](https://attention-learning-workshop.github.io/2022/papers/rawte-tdlr_top_semanticdown_syntactic_language_representation.pdf)].
+
+11. Lokala, U., Lamy, F., Dastidar, T. G., **Kaushik Roy**, Daniulaityte, R., Parthasarathy, S., & Sheth, A. (2021). eDarkTrends: Harnessing Social Media Trends in Substance Use Disorders for Opioid Listings on Cryptomarket. In ICLR AI for Public Health Workshop 2021 [[paper](https://arxiv.org/abs/2103.15764)].
 
 ## 📹 Tutorials and Talks
 
-1. **Kaushik Roy**, Megha Chakraborty, Yuxin Zi, Manas Gaur, and Amit Sheth. "Neurosymbolic Customized and Compact CoPilots” at International Semantic Web Conference, Nov. 2024 [[Website](https://kauroy1994.github.io/ISWC-2024-Tutorial-Neurosymbolic-Customized-and-Compact-CoPilots/)]
+1. **Kaushik Roy**, Megha Chakraborty, Yuxin Zi, Manas Gaur, and Amit Sheth. "Neurosymbolic Customized and Compact CoPilots”, International Semantic Web Conference, November 2024 [[Website](https://kauroy1994.github.io/ISWC-2024-Tutorial-Neurosymbolic-Customized-and-Compact-CoPilots/)]
 
 2. **Kaushik Roy**. "Healthcare Assistance Challenges-Driven Neurosymbolic AI,” invited talk at Ontolog Summit 2024, April 2024 [[Abstract](https://ontologforum.com/index.php/ConferenceCall_2024_04_24)][[Slides](https://ontologforum.s3.amazonaws.com/OntologySummit2024/TrackC/Healthcare-Assistance-Challenges-Driven-Neurosymbolic-AI--KaushikRoy_20240424.pdf)][[Video](https://www.youtube.com/watch?v=kptZoV20zvQ&list=PLqJzTtkUiq55fsHfNyDWmHtHJsurM8mX7&index=6&pp=iAQB)].
 
