@@ -18,14 +18,14 @@ author_profile: true
 ## 📚 Publications
 
 ### 📘 Book Chapters
-1. **Kaushik Roy**, Wu, S., Oltramari, M. (2024). "Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning." (to appear in: The Handbook on Neurosymbolic AI and Knowledge Graphs, [IOS Press](https://www.iospress.com/)) [[chapter preprint](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1331&context=csce_facpub)]. 
+1. **Kaushik Roy**, Wu, S., Oltramari, M. (2025). "Neurosymbolic Cognitive Methods for Enhancing Foundation Model-based Reasoning." (to appear in: The Handbook on Neurosymbolic AI and Knowledge Graphs, [IOS Press](https://www.iospress.com/)) [[chapter preprint](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1331&context=csce_facpub)]. 
 
 2. **Kaushik Roy**, Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). "Proknow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models." [Science and Technology - Recent Updates and Future Prospects](https://www.bookpi.org/bookstore/product/science-and-technology-recent-updates-and-future-prospects-vol-1/) (to appear in Vol. 2) [[chapter preprint](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1631&context=aii_fac_pub)].
 
 ### 📔 Journal Publications
-1. Sheth, Amit, **Kaushik Roy**, Hemant Purohit, and Amitava Das (2024). "Civilizing and Humanizing Artificial Intelligence in the Age of Large Language Models." IEEE Internet Computing (Vol. 28, Issue 5) [[paper](https://www.computer.org/csdl/magazine/ic/2024/05/10779592/22qTaCWboJO)].
-   
-2. Venkataramanan, R., Tripathy, A., Kumar, T., Serebryakov, S., Justine, A., Shah, A., Bhattacharya, S., Foltin, M., Faraboschi, P., **Kaushik Roy**, and Sheth, A., Constructing a Metadata Knowledge Graph as an Atlas for Demystifying AI Pipeline Optimization (2024). Frontiers in Big Data (Vol. 7) [[paper](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1476506/abstract)].
+1. Venkataramanan, R., Tripathy, A., Kumar, T., Serebryakov, S., Justine, A., Shah, A., Bhattacharya, S., Foltin, M., Faraboschi, P., **Kaushik Roy**, and Sheth, A., Constructing a Metadata Knowledge Graph as an Atlas for Demystifying AI Pipeline Optimization (2025). Frontiers in Big Data (Vol. 7) [[paper](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2024.1476506/abstract)].
+
+2. Sheth, Amit, **Kaushik Roy**, Hemant Purohit, and Amitava Das (2024). "Civilizing and Humanizing Artificial Intelligence in the Age of Large Language Models." IEEE Internet Computing (Vol. 28, Issue 5) [[paper](https://www.computer.org/csdl/magazine/ic/2024/05/10779592/22qTaCWboJO)].
 
 3. **Kaushik Roy**. Healthcare Assistance Challenges-Driven Neurosymbolic AI (2024). Biomedical Journal of Science & Technical Research (Vol. 58, Issue 2) [[paper](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1629&context=aii_fac_pub)].
    
