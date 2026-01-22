@@ -6,7 +6,7 @@ author_profile: true
 
 ## 🎓 Education
 
-- **2020 – Present**: Ph.D. Candidate, [University of South Carolina](https://sc.edu/)
+- **2020 – 2025**: Ph.D., [University of South Carolina](https://sc.edu/)
   - Topic: Process Knowledge-infused Learning and Reasoning
 - **2017 – 2020**: Ph.D. Student, [University of Texas at Dallas](https://www.utdallas.edu/) (Transferred in 2020)
   - Topic: Relational Sequential Decision Making [[Qualifier Document](https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1604&context=aii_fac_pub)]
