@@ -25,10 +25,10 @@ author:
   name             : &name "Follow Links"
   pronouns         : # example: "she/her"  
   bio              : &bio "Links to my Google Scholar and Socials"
-  location         : "South Carolina"
-  employer         : "University of South Carolina"
+  location         : "Tuscaloosa"
+  employer         : "University of Alabama"
   uri              : # URL
-  email            : "kaushikr@email.sc.edu" 
+  email            : "kroy2@ua.edu" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=LpOo_IUAAAAJ&hl=en&oi=ao"
