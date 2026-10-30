@@ -2,7 +2,7 @@
 layout: faculty
 title: Teaching & Mentoring
 permalink: /teaching/
-eyebrow: TEACHING
+eyebrow: TEACHING & MENTORING
 lede: "Courses, interdisciplinary perspectives, and research-led learning."
 ---
 
@@ -35,6 +35,11 @@ Research developed in connection with the course's themes includes the following
 <div class="pub-item"><h3>How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights</h3><p class="authors">Himanshu Tripathi, Kaushik Roy, Subash Neupane, Shahram Rahimi</p><p class="venue">NeSy 2026 · Accepted conference paper</p><p class="links"><a href="https://arxiv.org/abs/2608.13617">Paper ↗</a><a href="https://2026.nesyconf.org/program/">Conference program ↗</a></p></div>
 
 <div class="pub-item"><h3>From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data</h3><p class="authors">Himanshu Tripathi, Kaushik Roy, Shahram Rahimi, Subash Neupane, Sean Bozorgzad</p><p class="venue">medRxiv · 2026 · Research preprint</p><p class="links"><a href="https://doi.org/10.64898/2026.04.23.26351412">Paper ↗</a></p></div>
+
+## Fall 2026
+
+**CS 696 — Graduate Research Mentoring**  
+3 credit hours · The University of Alabama
 
 ## Spring 2027
 
