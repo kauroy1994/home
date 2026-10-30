@@ -8,6 +8,7 @@ lede: "Connecting data-driven learning to knowledge, causality, verifiable reaso
 
 My research asks a central question: **How can we build AI systems whose behavior can be grounded in knowledge and processes, inspected, and improved—rather than judged solely by predictive accuracy?** The work spans machine learning foundations and deployable AI systems, with rigorous evaluation in real applications.
 
+<figure class="research-illustration"><img src="{{ '/images/research-neurosymbolic.svg' | relative_url }}" alt="Scientific illustration of neural representations connected to a symbolic knowledge graph and verified reasoning outputs" loading="lazy"><figcaption>Neurosymbolic AI: learned representations, explicit knowledge and auditable inference.</figcaption></figure>
 <div class="mini-grid">
   <div class="info-card"><p class="kicker">RESEARCH PILLAR 01</p><h3>Neurosymbolic AI &amp; knowledge integration</h3><p>Injecting declarative constraints, domain processes, and structured representations into neural learning and inference.</p></div>
   <div class="info-card"><p class="kicker">RESEARCH PILLAR 02</p><h3>Agentic reasoning &amp; verifiability</h3><p>Evidence-grounded tool use, executable reasoning artifacts, procedural checks, and transparent decisions.</p></div>

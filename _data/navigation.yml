@@ -11,6 +11,8 @@ main:
     url: /teaching/
   - title: "Talks"
     url: /talks/
+  - title: "Beyond Research"
+    url: /beyond-research/
   - title: "News"
     url: /news/
   - title: "CV"

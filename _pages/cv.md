@@ -6,6 +6,10 @@ eyebrow: ACADEMIC PROFILE
 lede: "Education, appointments, selected experience, and links to an up-to-date scholarly record."
 ---
 
+<p><a class="btn btn-crimson" href="{{ '/files/Kaushik_Roy_CV_2026.pdf' | relative_url }}" download>Download comprehensive CV (PDF) ↗</a></p>
+
+The PDF includes education, appointments, research experience, research support, publications, tutorials, scholarly service, and additional academic activities. It is generated from the current scholarly record and archived CV material; please review before formal submission.
+
 ## Academic appointments
 
 **2025–present · Assistant Professor, Department of Computer Science**  
@@ -43,4 +47,3 @@ For paper titles, venues, and persistent DOI links, see [Selected Publications](
 **Telephone:** [(205) 348-2171](tel:+12053482171)  
 Source: [University faculty directory](https://eng.ua.edu/eng-directory/dr-kaushik-roy/).
 
-<div class="callout"><p><strong>CV note:</strong> This is an accessible academic summary, not a claim to be a complete, signed PDF CV. A comprehensive downloadable CV can be added once a current approved document is provided.</p></div>

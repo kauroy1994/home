@@ -2,11 +2,11 @@
 layout: faculty
 title: People & Collaborators
 permalink: /people/
-eyebrow: OUR RESEARCH COMMUNITY
-lede: "The lab is built around interdisciplinary research and collaborations. This page distinguishes formal lab leadership from coauthorship."
+eyebrow: STUDENTS & COLLABORATORS
+lede: "Doctoral supervision, research affiliations, and selected scholarly collaborators."
 ---
 
-## Lab director
+## Faculty
 
 <div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p>Assistant Professor, Department of Computer Science</p><p>The University of Alabama · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
 
@@ -20,7 +20,7 @@ I am affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> (
 
 ## Selected research collaborators
 
-These are **examples of documented coauthors and collaborators**, not a complete roster of advised students, employees, or formal MIND Lab members.
+These are **examples of documented coauthors and collaborators**, not a complete roster of advised students, employees, or members of a formal research group.
 
 <div class="mini-grid">
   <div class="info-card"><h3>Himanshu Tripathi</h3><p>Research collaborator; coauthor on the 2026 sepsis compliance work.</p><p><a href="https://arxiv.org/abs/2608.13617">Related paper ↗</a></p></div>

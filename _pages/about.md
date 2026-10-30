@@ -2,7 +2,7 @@
 layout: faculty
 permalink: /
 title: Home
-description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The University of Alabama. MIND Lab research in neurosymbolic, causal and trustworthy AI."
+description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The University of Alabama. Research in neurosymbolic, causal and trustworthy AI."
 ---
 <section class="hero">
   <div class="container hero-inner">
@@ -48,10 +48,10 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
 <section class="home-section alt">
   <div class="container">
     <div class="section-header"><div><span class="section-label">RESEARCH DIRECTIONS</span><h2>Intelligence grounded in structure.</h2></div><a class="text-link" href="{{ '/research/' | relative_url }}">All research themes</a></div>
-    <div class="card-grid">
-      <article class="tile"><span class="card-index">01 / FOUNDATIONS</span><h3>Neurosymbolic reasoning</h3><p>Learning and inference that integrate neural representations with declarative knowledge, rules and processes.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
-      <article class="tile"><span class="card-index">02 / SYSTEMS</span><h3>Trustworthy agentic AI</h3><p>Auditable decision processes, evidence-grounded tool use, verification, and dependable behavior.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
-      <article class="tile"><span class="card-index">03 / IMPACT</span><h3>Causal &amp; applied AI</h3><p>Causal reasoning and process-grounded decision support for healthcare, manufacturing, and complex systems.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
+    <div class="card-grid research-cards">
+      <article class="tile"><img class="tile-art" src="{{ '/images/research-neurosymbolic.svg' | relative_url }}" alt="Neural and symbolic AI research illustration" loading="lazy"><span class="card-index">01 / FOUNDATIONS</span><h3>Neurosymbolic reasoning</h3><p>Learning and inference that integrate neural representations with declarative knowledge, rules and processes.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
+      <article class="tile"><img class="tile-art" src="{{ '/images/research-agents.svg' | relative_url }}" alt="Verified agent reasoning research illustration" loading="lazy"><span class="card-index">02 / SYSTEMS</span><h3>Trustworthy agentic AI</h3><p>Auditable decision processes, evidence-grounded tool use, verification, and dependable behavior.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
+      <article class="tile"><img class="tile-art" src="{{ '/images/research-causal.svg' | relative_url }}" alt="Causal and applied AI research illustration" loading="lazy"><span class="card-index">03 / IMPACT</span><h3>Causal &amp; applied AI</h3><p>Causal reasoning and process-grounded decision support for healthcare, manufacturing, and complex systems.</p><a href="{{ '/research/' | relative_url }}">Explore direction →</a></article>
     </div>
   </div>
 </section>
@@ -69,7 +69,7 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
 
 <section class="home-section alt">
   <div class="container">
-    <div class="section-header"><div><span class="section-label">UPDATES</span><h2>From the lab &amp; beyond.</h2></div><a class="text-link" href="{{ '/news/' | relative_url }}">All updates</a></div>
+    <div class="section-header"><div><span class="section-label">UPDATES</span><h2>Research &amp; beyond.</h2></div><a class="text-link" href="{{ '/news/' | relative_url }}">All updates</a></div>
     <div class="news-feed">
       <div class="news-row"><span class="news-date">AUG 2026</span><p>Our expert-guided neuro-symbolic sepsis compliance study was accepted at <a href="https://2026.nesyconf.org/">NeSy 2026</a>.</p></div>
       <div class="news-row"><span class="news-date">JUL 2026</span><p>Our work on LLM-assisted mental health diagnostic assessments appeared in <a href="https://doi.org/10.1145/3805697">ACM Transactions on Computing for Healthcare</a>.</p></div>
