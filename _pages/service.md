@@ -20,6 +20,8 @@ lede: "Editorial appointments, event organization, and program committees."
 
 ## Program Committees
 
+- **CNLP4QoL @ IEEE ICHI 2026** — Program Committee, First Workshop on Clinical Natural Language Processing for Quality of Life. [Workshop committee](https://cnlp4qol.github.io/ICHI-cnlp4qol-2026/)
+- **TRUSTMORE @ IEEE BigData 2026** — Program Committee, First International Workshop on Trustworthy Multimodal Agents. [Workshop committee](https://trustmoreai.github.io/workshop2026/)
 - **CLPsych 2025** — Tenth Workshop on Computational Linguistics and Clinical Psychology. [Proceedings: program committee](https://aclanthology.org/2025.clpsych-1.pdf)
 - **KiL @ ACM KDD 2024** — Knowledge-infused Learning Workshop, NeuroSymbolic AI track. [Committee](https://kil-workshop.github.io/committee.html)
 - **KiML @ ACM KDD 2020** — Knowledge-infused Mining and Learning Workshop. [Published proceedings, program committee](https://ceur-ws.org/Vol-2657/xproceedings.pdf)
