@@ -16,7 +16,9 @@ lede: "Doctoral supervision, research affiliations, and selected scholarly colla
 
 ## Research affiliation
 
-I am affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> (Bioinspired Robotics, AI, Imaging &amp; Neurocognitive Systems Laboratory) at The University of Alabama. The lab is directed by Dr. Noorbakhsh Amiri Golilarz and conducts interdisciplinary work spanning computer vision, robotics, AI and cognitive neuroscience. <a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a>
+<div class="profile-card"><img src="https://eng.ua.edu/wp-content/uploads/2025/08/Cropped-e1758118007757.jpg" alt="Dr. Noorbakhsh Amiri Golilarz, director of the BRAINS Lab" loading="lazy"><div><h3><a href="https://sites.ua.edu/brains/team/">Dr. Noorbakhsh Amiri Golilarz</a></h3><p>Assistant Professor of Computer Science, The University of Alabama</p><p><strong>Director, BRAINS Lab</strong></p><p><a href="https://eng.ua.edu/faculty-staff/hewson-fellows/">Official UA faculty photograph and profile ↗</a></p></div></div>
+
+I am affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> (Bioinspired Robotics, AI, Imaging &amp; Neurocognitive Systems Laboratory) at The University of Alabama. The lab conducts interdisciplinary work spanning computer vision, robotics, AI and cognitive neuroscience. <a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a>
 
 ## Selected research collaborators
 
