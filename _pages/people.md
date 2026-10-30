@@ -8,7 +8,7 @@ lede: "Doctoral supervision, research affiliations, and selected scholarly colla
 
 ## Faculty
 
-<div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p><strong>Assistant Professor, Department of Computer Science, The University of Alabama.</strong></p><p>Research affiliate, BRAINS Lab.</p><p><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Official UA faculty profile ↗</a> · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
+<div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p><strong>Assistant Professor, Department of Computer Science, The University of Alabama.</strong></p><p>Research affiliate, BRAINS Lab.</p><p><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Official UA faculty profile ↗</a> · <a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a> · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
 
 ## Ph.D. students
 
