@@ -28,7 +28,6 @@ lede: "Journal editorships, event organization, program committees, peer review,
 
 ## Invited Talks & Tutorials
 
-- **2025 · University of South Carolina** — *Process Knowledge-Guided Neurosymbolic Learning and Reasoning*. Ph.D. dissertation defense, July 15, 2025. [Event record](https://web.cse.sc.edu/event/process-knowledge-guided-neurosymbolic-learning-and-reasoning-0)
 - **2024 · Ontolog Summit** — *Healthcare Assistance Challenges-Driven Neurosymbolic AI*, April 24, 2024. [Official program](https://ontologforum.com/index.php/ConferenceCall_2024_04_24) · [Presentation record](https://scholarcommons.sc.edu/aii_fac_pub/607/)
 - **2024 · University of Florida, Intelligent Clinical Care Center** — *Knowledge-infused Neurosymbolic Artificial Intelligence for Mental Healthcare*. [Presentation listing](https://wiki.aiisc.ai/index.php?title=Neurosymbolic_Artificial_Intelligence_Research_at_AIISC)
 - **2024 · International Semantic Web Conference (ISWC)** — *Neurosymbolic Customized and Compact CoPilots*, tutorial co-presenter. [Conference program](https://iswc.umbc.edu/program/accepted-tutorials/)
