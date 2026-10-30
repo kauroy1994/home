@@ -20,8 +20,6 @@ I am affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> (
 
 ## Selected research collaborators
 
-These are **examples of documented coauthors and collaborators**, not a complete roster of advised students, employees, or members of a formal research group.
-
 <div class="mini-grid">
   <div class="info-card collaborator-card"><img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/himanshu-tripathi.jpg" alt="Portrait of Himanshu Tripathi" loading="lazy" onerror="this.style.display='none'"><h3>Himanshu Tripathi</h3><p>Research collaborator; coauthor on the 2026 sepsis compliance work.</p><p><a href="https://arxiv.org/abs/2608.13617">Related paper ↗</a></p></div>
   <div class="info-card collaborator-card"><img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/shahram-rahimi.jpg" alt="Portrait of Shahram Rahimi" loading="lazy" onerror="this.style.display='none'"><h3>Shahram Rahimi</h3><p>University of Alabama collaborator on clinical neuro-symbolic reasoning.</p><p><a href="https://arxiv.org/abs/2608.13617">Related paper ↗</a></p></div>
