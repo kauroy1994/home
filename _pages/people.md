@@ -8,7 +8,15 @@ lede: "The lab is built around interdisciplinary research and collaborations. Th
 
 ## Lab director
 
-<div class="profile-card"><img src="{{ '/images/profile.png' | relative_url }}" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p>Assistant Professor, Department of Computer Science</p><p>The University of Alabama · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
+<div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p>Assistant Professor, Department of Computer Science</p><p>The University of Alabama · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
+
+## Ph.D. students
+
+<div class="profile-card"><img src="https://github.com/chirix33.png" alt="GitHub profile portrait of Ashraf Abdul-Muumin" loading="lazy"><div><h3>Ashraf Abdul-Muumin</h3><p><strong>Ph.D. Student · The University of Alabama</strong></p><p>Doctoral advisee of Dr. Kaushik Roy.</p><p><a href="https://github.com/chirix33">GitHub profile ↗</a></p></div></div>
+
+## Research affiliation
+
+I am affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> (Bioinspired Robotics, AI, Imaging &amp; Neurocognitive Systems Laboratory) at The University of Alabama. The lab is directed by Dr. Noorbakhsh Amiri Golilarz and conducts interdisciplinary work spanning computer vision, robotics, AI and cognitive neuroscience. <a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a>
 
 ## Selected research collaborators
 
@@ -23,8 +31,3 @@ These are **examples of documented coauthors and collaborators**, not a complete
   <div class="info-card"><h3>Alessandro Oltramari</h3><p>Research collaborator on spatiotemporal reasoning and cognitive neurosymbolic systems.</p><p><a href="https://ojs.aaai.org/index.php/AAAI-SS/article/view/31204">Related paper ↗</a></p></div>
 </div>
 
-## Student roster
-
-A verified roster of current graduate and undergraduate lab members, including preferred names, roles, and photos, will be published once confirmed. This avoids assigning students roles or advising relationships without their agreement.
-
-If you are a current lab member and would like your profile included, please [contact me]({{ '/contact/' | relative_url }}).

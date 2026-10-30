@@ -5,16 +5,12 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "MIND Lab"
-    url: /lab/
   - title: "People"
     url: /people/
   - title: "Teaching"
     url: /teaching/
   - title: "Talks"
     url: /talks/
-  - title: "Service"
-    url: /service/
   - title: "News"
     url: /news/
   - title: "CV"

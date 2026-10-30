@@ -9,7 +9,7 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
     <div>
       <div class="eyebrow">THE UNIVERSITY OF ALABAMA · COMPUTER SCIENCE</div>
       <h1>Kaushik <span>Roy.</span></h1>
-      <p class="hero-role">Assistant Professor · Director, MIND Lab</p>
+      <p class="hero-role">Assistant Professor · Computer Science</p>
       <p class="hero-description">Building AI systems that do more than predict: systems that can reason with knowledge, explain their decisions, and act reliably in complex real-world environments.</p>
       <div class="button-row">
         <a class="btn btn-light" href="{{ '/research/' | relative_url }}">Explore research <span aria-hidden="true">↗</span></a>
@@ -18,7 +18,7 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
       </div>
     </div>
     <div class="hero-photo-wrap">
-      <img class="hero-photo" src="{{ '/images/profile.png' | relative_url }}" alt="Portrait of Dr. Kaushik Roy" width="400" height="470" fetchpriority="high">
+      <img class="hero-photo" src="https://github.com/kauroy1994.png" alt="Portrait of Dr. Kaushik Roy" width="400" height="470" fetchpriority="high">
       <p class="hero-photo-caption">Tuscaloosa, Alabama · Est. at UA 2025</p>
     </div>
   </div>
@@ -29,8 +29,8 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
     <div>
       <span class="section-label">ABOUT</span>
       <h2>From knowledge to decisions.</h2>
-      <p class="lede-copy">I am an Assistant Professor in the <a href="https://cs.ua.edu/">Department of Computer Science</a> at <a href="https://www.ua.edu/">The University of Alabama</a>. I lead <a href="{{ '/lab/' | relative_url }}">MIND Lab</a> (Models, Integrated Neurosymbolic systems, and Decisions), where we investigate how neural models, symbolic knowledge and causal structure can work together to support more transparent learning, reasoning and sequential decision-making.</p>
-      <p class="lede-copy">My work spans foundation models, agentic systems and knowledge-guided learning, with applications in healthcare, manufacturing and other consequential settings. I earned my Ph.D. at the University of South Carolina, advised by <a href="https://www.amitsheth.com/">Prof. Amit Sheth</a>.</p>
+      <p class="lede-copy">I am an Assistant Professor in the <a href="https://cs.ua.edu/">Department of Computer Science</a> at <a href="https://www.ua.edu/">The University of Alabama</a>. My research investigates how neural models, symbolic knowledge and causal structure can work together to support more transparent learning, reasoning and sequential decision-making.</p>
+      <p class="lede-copy">My work spans foundation models, agentic systems and knowledge-guided learning, with applications in healthcare, manufacturing and other consequential settings. I am also affiliated with the <a href="https://sites.ua.edu/brains/">BRAINS Lab</a> at UA, an interdisciplinary research group studying bioinspired robotics, artificial intelligence, imaging and neurocognitive systems. I earned my Ph.D. at the University of South Carolina, advised by <a href="https://www.amitsheth.com/">Prof. Amit Sheth</a>.</p>
       <a class="text-link" href="{{ '/cv/' | relative_url }}">More about my background</a>
     </div>
     <aside class="aside-note" aria-label="Quick links">

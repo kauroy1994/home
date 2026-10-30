@@ -8,6 +8,9 @@ lede: "For prospective students, researchers, and interdisciplinary collaborator
 
 ## Graduate students
 
+Current doctoral advisee: **Ashraf Abdul-Muumin** ([GitHub](https://github.com/chirix33)).
+
+
 I welcome thoughtful inquiries from prospective students who want to work on **neurosymbolic AI, causal reasoning, trustworthy AI agents, knowledge-guided learning, or related systems questions**. Strong backgrounds in machine learning, algorithms, logic, representation learning, or software systems are particularly relevant.
 
 Please email [kroy2@ua.edu](mailto:kroy2@ua.edu) with a brief introduction, your CV or résumé, a research-interest paragraph, and one or two papers or projects that connect your experience to the lab's research.

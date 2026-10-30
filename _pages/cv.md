@@ -24,6 +24,10 @@ The University of Alabama, Tuscaloosa, Alabama. Research areas: neurosymbolic AI
 - **The Alan Turing Institute**, visiting research experience, fall 2021.
 - **StARLinG Lab**, The University of Texas at Dallas; relational learning and sequential decision-making research.
 
+## Research affiliation
+
+**BRAINS Lab — Bioinspired Robotics, AI, Imaging & Neurocognitive Systems Laboratory**, The University of Alabama. [Lab website](https://sites.ua.edu/brains/).
+
 ## Research focus
 
 Neurosymbolic and causal AI; agentic learning and reasoning; interpretable and process-grounded decision support; machine learning applications in healthcare and manufacturing.
