@@ -50,6 +50,8 @@ section("Peer-reviewed journal publications — 2025")
 rows(["Zi, Y., Roy, K., and Sheth, A. (2025). Cognitive Neurosymbolic Artificial Intelligence for Complex Decision-Making: Integrating Foundation Models, Cognitive Architectures, and Knowledge. IEEE Intelligent Systems. doi:10.1109/MIS.2025.3561487.","Sheth, A., Roy, K., Venkataramanan, R., Nadimuthu, V., and Shyalika, C. (2025). Composite AI With Custom, Compact, Neurosymbolic Models: The Emergent Enterprise Artificial Intelligence Paradigm. IEEE Internet Computing, 29(2), 37–49.","Sheth, A., Khandelwal, V., Roy, K., Pallagani, V., and Chakraborty, M. (2025). NeuroSymbolic Knowledge-Grounded Planning and Reasoning in Artificial Intelligence Systems. IEEE Intelligent Systems.","Venkataramanan, R., et al., including Roy, K. (2024; online January 2025). Constructing a Metadata Knowledge Graph as an Atlas for Demystifying AI Pipeline Optimization. Frontiers in Big Data, 7, 1476506."])
 section("Peer-reviewed conferences and demonstrations — 2026–2025")
 rows(["Tripathi, H., Roy, K., Neupane, S., and Rahimi, S. (2026). How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights. NeSy 2026 (accepted conference presentation); arXiv:2608.13617.","Garimella, R., Roy, K., Shyalika, C., and Sheth, A. (2026). In-Situ Eval: A Modular Framework for Custom and Real-Time RAG Benchmarking. AAAI 2026 Demonstration Track. doi:10.1609/aaai.v40i48.42348.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2025). Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems. NeSy 2025, PMLR 284:957–976."])
+section("Published book chapters")
+rows(["Roy, K., Wu, S., and Oltramari, A. (2025). Enhancing Foundation Model-Based Reasoning with Neuro-Symbolic Cognitive Methods. In Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press, pp. 712–739. doi:10.3233/FAIA250228.","Roy, K., Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). ProKnow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models. In Science and Technology – Recent Updates and Future Prospects, Vol. 2."])
 section("Additional published bibliography (2024 and earlier)")
 p("The entries below are reconstructed and reformatted from the author's earlier public scholarly bibliography, preserving historical output rather than restricting the CV to recent highlights.","CVFine")
 raw=Path("_pages/markdown.md").read_text(encoding="utf-8")
@@ -73,9 +75,10 @@ def flush():
   buf=[]
 for ln in part.splitlines():
  if ln.startswith("### "):
-  flush(); category=clean(ln[4:]);sub(category)
+  flush(); category=clean(ln[4:]);
+  if "Book Chapters" not in category:sub(category)
  elif re.match(r"^\d+\.\s",ln):
-  flush();buf=[ln]
+  flush();buf=[ln] if "Book Chapters" not in (category or "") else []
  elif buf and ln.strip():
   buf.append(ln)
 flush()
