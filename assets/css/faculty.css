@@ -15,3 +15,27 @@
 
 /* Awards page */
 .award-spotlight{border:1px solid #e9d9df;border-top:5px solid #9e1b32;border-radius:15px;padding:clamp(22px,4vw,38px);background:linear-gradient(130deg,#fff,#fbf5f7)}.award-spotlight h2{margin:0 0 22px!important}.award-metrics{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:22px 0 26px}.award-metrics>div{padding:18px;background:#fff;border:1px solid #eadfe2;border-radius:11px;display:flex;flex-direction:column;gap:4px}.award-metrics span{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:#59616b;font-weight:700}.award-metrics strong{font-size:2rem;line-height:1.2;color:#9e1b32}.award-metrics small{color:#5b606b;font-size:.78rem}.award-sources a{margin-right:18px;font-weight:700}.award-team{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:17px;margin:25px 0 38px}.award-person{border:1px solid #e6dfe2;border-radius:14px;overflow:hidden;background:#fff}.award-person img{width:100%;aspect-ratio:5/4;object-fit:cover;object-position:center 24%;display:block;background:#f4eff0}.award-person>div{padding:21px}.award-person h3{margin:0 0 7px!important;color:#4a0e1b}.award-person p{font-size:.88rem}.award-person .award-role{font-weight:800;color:#9e1b32}.award-person a{font-size:.84rem;font-weight:700}@media(max-width:700px){.award-team,.award-metrics{grid-template-columns:1fr}.award-person img{max-height:270px}}
+
+
+/* Homepage hero: mobile-first portrait and text layout */
+.hero-photo-wrap{width:min(100%,310px);max-width:310px;min-width:0;margin-inline:auto}
+.hero-photo-wrap:before{display:none}
+.hero-photo{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;object-position:center 20%;border-radius:14px}
+.hero-photo-caption{display:none}
+.hero-inner>div{min-width:0}
+.hero h1{overflow-wrap:normal}
+@media(max-width:700px){
+  .hero-inner{display:flex;flex-direction:column;align-items:stretch;gap:25px;padding:38px 0 48px}
+  .hero-photo-wrap{order:0;width:clamp(164px,48vw,220px);max-width:220px;margin:0 auto}
+  .hero-inner>div:first-child{order:1;text-align:center;width:100%}
+  .hero .eyebrow{font-size:.66rem;line-height:1.55;letter-spacing:.1em;margin-bottom:12px}
+  .hero h1{font-size:clamp(2.65rem,11vw,3.55rem);line-height:1.08;margin-bottom:12px}
+  .hero-role{font-size:1rem;line-height:1.5;margin-bottom:14px}
+  .hero-description{font-size:.97rem;line-height:1.65;max-width:34rem;margin:0 auto 22px}
+  .hero .button-row{justify-content:center;gap:9px}
+  .hero .btn{font-size:.83rem;padding:10px 14px}
+}
+@media(max-width:390px){
+  .hero h1{font-size:2.55rem}
+  .hero .btn{width:100%}
+}
