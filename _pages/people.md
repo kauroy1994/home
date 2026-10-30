@@ -8,11 +8,11 @@ lede: "Doctoral supervision, research affiliations, and selected scholarly colla
 
 ## Faculty
 
-<div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p>Assistant Professor, Department of Computer Science</p><p>The University of Alabama · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
+<div class="profile-card"><img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy"><div><h3>Dr. Kaushik Roy</h3><p><strong>Assistant Professor, Department of Computer Science, The University of Alabama.</strong></p><p>Research affiliate, BRAINS Lab.</p><p><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Official UA faculty profile ↗</a> · <a href="mailto:kroy2@ua.edu">Email</a></p></div></div>
 
 ## Ph.D. students
 
-<div class="profile-card"><img src="https://github.com/chirix33.png" alt="GitHub profile portrait of Ashraf Abdul-Muumin" loading="lazy"><div><h3>Ashraf Abdul-Muumin</h3><p><strong>Ph.D. Student · The University of Alabama</strong></p><p>Doctoral advisee of Dr. Kaushik Roy.</p><p><a href="https://github.com/chirix33">GitHub profile ↗</a></p></div></div>
+<div class="profile-card"><img src="https://github.com/chirix33.png" alt="GitHub profile portrait of Ashraf Abdul-Muumin" loading="lazy"><div><h3>Ashraf Abdul-Muumin</h3><p><strong>Ph.D. Student, Department of Computer Science, The University of Alabama.</strong></p><p>Doctoral advisee of Dr. Kaushik Roy.</p><p><a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a> · <a href="https://github.com/chirix33">GitHub profile ↗</a></p></div></div>
 
 ## Research affiliation
 
