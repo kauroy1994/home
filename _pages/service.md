@@ -3,7 +3,7 @@ layout: faculty
 title: Academic Service
 permalink: /service/
 eyebrow: ACADEMIC SERVICE
-lede: "Editorial appointments, event organization, and program committees."
+lede: "Journal editorships, event organization, program committees, peer review, and invited presentations."
 ---
 
 ## Journal Editorships
@@ -25,6 +25,12 @@ lede: "Editorial appointments, event organization, and program committees."
 - **CLPsych 2025** — Tenth Workshop on Computational Linguistics and Clinical Psychology. [Proceedings: program committee](https://aclanthology.org/2025.clpsych-1.pdf)
 - **KiL @ ACM KDD 2024** — Knowledge-infused Learning Workshop, NeuroSymbolic AI track. [Committee](https://kil-workshop.github.io/committee.html)
 - **KiML @ ACM KDD 2020** — Knowledge-infused Mining and Learning Workshop. [Published proceedings, program committee](https://ceur-ws.org/Vol-2657/xproceedings.pdf)
+
+## Invited Talks & Tutorials
+
+- **2024 · Ontolog Summit** — *Healthcare Assistance Challenges-Driven Neurosymbolic AI*. [Official program](https://ontologforum.com/index.php/ConferenceCall_2024_04_24) · [Presentation record](https://scholarcommons.sc.edu/aii_fac_pub/607/)
+- **2024 · International Semantic Web Conference (ISWC)** — *Neurosymbolic Customized and Compact CoPilots*, tutorial co-presenter. [Conference program](https://iswc.umbc.edu/program/accepted-tutorials/)
+- **2020 · PyData Berlin** — *Knowledge-infused Statistical Learning for Social Good*, with Manas Gaur. [University repository record](https://scholarcommons.sc.edu/aii_fac_pub/588/)
 
 ## Peer Review
 
