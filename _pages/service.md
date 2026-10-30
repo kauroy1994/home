@@ -25,3 +25,8 @@ lede: "Editorial appointments, event organization, and program committees."
 - **CLPsych 2025** — Tenth Workshop on Computational Linguistics and Clinical Psychology. [Proceedings: program committee](https://aclanthology.org/2025.clpsych-1.pdf)
 - **KiL @ ACM KDD 2024** — Knowledge-infused Learning Workshop, NeuroSymbolic AI track. [Committee](https://kil-workshop.github.io/committee.html)
 - **KiML @ ACM KDD 2020** — Knowledge-infused Mining and Learning Workshop. [Published proceedings, program committee](https://ceur-ws.org/Vol-2657/xproceedings.pdf)
+
+## Peer Review
+
+- **Neurosymbolic Artificial Intelligence** — Journal reviewer, 2024–2026. [Public review record](https://www.neurosymbolic-ai-journal.com/paper/algorithmic-ersatz-vsa-macroscopic-simulation-vector-symbolic-architecture-0) · [2026 review](https://www.neurosymbolic-ai-journal.com/paper/algorithmic-ersatz-vsa-towards-macroscopic-simulation-vector-symbolic-architecture)
+- **COLING 2025 — System Demonstrations** — Reviewer. [Published reviewer roster](https://aclanthology.org/2025.coling-demos.pdf)
