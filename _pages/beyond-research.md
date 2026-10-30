@@ -13,7 +13,11 @@ lede: "A collection of media appearances, filmmaking, recorded talks, and public
   <div class="info-card"><p class="kicker">MEDIA &amp; OUTREACH</p><h3>Public-facing AI conversations</h3><p>Presentations and conversations about knowledge-infused AI, healthcare, and the broader impact of AI on society.</p><p><a href="{{ '/talks/' | relative_url }}">Invited talks &amp; tutorials ↗</a></p></div>
 </div>
 
-## Video & YouTube
+## My YouTube channel
+
+[Visit my personal YouTube channel — @kaushikroy4041](https://www.youtube.com/@kaushikroy4041)
+
+## Selected recorded talks
 
 Selected publicly accessible recordings from my academic and community talks:
 
@@ -22,7 +26,7 @@ Selected publicly accessible recordings from my academic and community talks:
 - [Interpretable Machine Learning and Hoeffding's Inequality — guest lecture](https://www.youtube.com/watch?v=0oCELvPrkMk).
 - [Knowledge-infused Natural Language Understanding for Public Health — tutorial](https://www.youtube.com/watch?v=pRUXTuxm3as).
 
-These are links to individual videos, not a claim that all recordings are hosted on a personal channel. A verified personal YouTube channel can be linked separately when its URL is confirmed.
+These are selected recordings; some are hosted by conference or educational organizations rather than my personal channel.
 
 ## Other interests
 

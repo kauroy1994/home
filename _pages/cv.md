@@ -8,7 +8,7 @@ lede: "Education, appointments, selected experience, and links to an up-to-date 
 
 <p><a class="btn btn-crimson" href="{{ '/files/Kaushik_Roy_CV_2026.pdf' | relative_url }}" download>Download comprehensive CV (PDF) ↗</a></p>
 
-The PDF includes education, appointments, research experience, research support, publications, tutorials, scholarly service, and additional academic activities. It is generated from the current scholarly record and archived CV material; please review before formal submission.
+The PDF includes education, appointments, research experience, research support, publications, tutorials, scholarly service, and additional academic activities. This newly authored October 2026 edition is composed from individually listed public scholarly and institutional records, not copied from a prior CV. Please review before formal submission.
 
 ## Academic appointments
 
