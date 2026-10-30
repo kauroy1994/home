@@ -36,8 +36,7 @@ Research developed in connection with the course's themes includes the following
 
 <div class="pub-item"><h3>From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data</h3><p class="authors">Himanshu Tripathi, Kaushik Roy, Shahram Rahimi, Subash Neupane, Sean Bozorgzad</p><p class="venue">medRxiv · 2026 · Research preprint</p><p class="links"><a href="https://doi.org/10.64898/2026.04.23.26351412">Paper ↗</a></p></div>
 
-## Other Teaching and Curriculum Development
+## Spring 2027
 
-**CS 483 / CS 583 — Computational Foundations of Machine Learning:** Mathematical foundations, optimization, learning theory, and reproducible experiments.
-
-**Foundations of AI and MLOps:** Curriculum development spanning machine learning, language models, retrieval, evaluation, deployment, and monitoring.
+**CS 483 / CS 583 — Computational Foundations of Machine Learning**  
+The University of Alabama · Scheduled for Spring 2027
