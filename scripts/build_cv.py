@@ -6,30 +6,37 @@ No prior PDF is read or copied.
 """
 from pathlib import Path
 import re,html
-from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,KeepTogether
+from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,KeepTogether,HRFlowable,KeepInFrame
 from reportlab.lib.styles import getSampleStyleSheet,ParagraphStyle
 from reportlab.lib.colors import HexColor
 from reportlab.lib.pagesizes import letter
 from xml.sax.saxutils import escape
 OUT=Path("files/Kaushik_Roy_CV_2026.pdf");OUT.parent.mkdir(exist_ok=True)
 st=getSampleStyleSheet()
-for name,sz,leading,before,after,bold,color in [
- ("CVName",23,29,0,7,True,"#9e1b32"),
- ("CVHeading",11.7,15,18,8,True,"#9e1b32"),
- ("CVSubheading",10,14,12,6,True,"#4c2630"),
- ("CVBody",9.2,13.6,0,7,False,"#242a32"),
- ("CVFine",8,11.7,0,7,False,"#5d6570")]:
- st.add(ParagraphStyle(name=name,fontName="Helvetica-Bold" if bold else "Helvetica",fontSize=sz,leading=leading,spaceBefore=before,spaceAfter=after,textColor=HexColor(color),keepWithNext=name in ("CVHeading","CVSubheading")))
+CRIMSON=HexColor("#9E1B32")
+INK=HexColor("#20242D")
+MUTED=HexColor("#5C6470")
+st.add(ParagraphStyle(name="CVName",fontName="Times-Bold",fontSize=27,leading=32,spaceAfter=5,textColor=CRIMSON))
+st.add(ParagraphStyle(name="CVHeading",fontName="Helvetica-Bold",fontSize=10.6,leading=14,spaceBefore=19,spaceAfter=8,textColor=CRIMSON,keepWithNext=True,tracking=0.8))
+st.add(ParagraphStyle(name="CVSubheading",fontName="Helvetica-Bold",fontSize=9.6,leading=13,spaceBefore=12,spaceAfter=6,textColor=INK,keepWithNext=True))
+st.add(ParagraphStyle(name="CVBody",fontName="Helvetica",fontSize=9.1,leading=13.6,spaceAfter=6.5,textColor=INK))
+st.add(ParagraphStyle(name="CVFine",fontName="Helvetica",fontSize=8.4,leading=12,spaceAfter=5,textColor=MUTED))
+st.add(ParagraphStyle(name="CVEntry",parent=st["CVBody"],leftIndent=12,firstLineIndent=-11,spaceAfter=6.5))
 story=[]
-def p(t,style="CVBody"):story.append(Paragraph(escape(t),st[style]))
-def section(t):p(t.upper(),"CVHeading")
+def p(t,style="CVBody"):
+ story.append(Paragraph(escape(t),st[style]))
+def section(t):
+ story.append(Spacer(1,5))
+ story.append(Paragraph(escape(t.upper()),st["CVHeading"]))
+ story.append(HRFlowable(width="100%",thickness=.7,color=HexColor("#DCC6CD"),spaceBefore=0,spaceAfter=10))
 def sub(t):p(t,"CVSubheading")
 def rows(v):
- for x in v:p("•  "+x)
+ for x in v:p("•  "+x,"CVEntry")
 p("KAUSHIK ROY","CVName")
-p("Ph.D. | Assistant Professor, Department of Computer Science | The University of Alabama")
-p("3031 Cyber Hall, Tuscaloosa, Alabama | kroy2@ua.edu | (205) 348-2171","CVFine")
-p("Website: kauroy1994.github.io/home/ | ORCID: 0000-0001-6610-7845 | Google Scholar: LpOo_IUAAAAJ","CVFine")
+p("Ph.D.  |  Assistant Professor, Department of Computer Science  |  The University of Alabama")
+p("3031 Cyber Hall, Tuscaloosa, Alabama   •   kroy2@ua.edu   •   (205) 348-2171","CVFine")
+p("kauroy1994.github.io/home/   •   ORCID: 0000-0001-6610-7845   •   Google Scholar: LpOo_IUAAAAJ","CVFine")
+story.append(HRFlowable(width="100%",thickness=2.2,color=CRIMSON,spaceBefore=10,spaceAfter=15))
 section("Research profile")
 p("Research on knowledge-infused and neurosymbolic AI that combines neural representations with declarative, procedural and causal structure. Current interests include trustworthy agentic systems, interpretable sequential decisions, foundation models, process-aware reasoning, evaluation, and high-stakes applications in healthcare and manufacturing.")
 section("Academic appointments and affiliations")
@@ -108,11 +115,20 @@ section("Media, outreach, and public communication")
 rows(["AI in the Family (2025), IMDb film listing: imdb.com/title/tt38192436/.","Personal YouTube channel: youtube.com/@kaushikroy4041.","Recorded research talks and tutorials on healthcare AI, social-good ML, and neurosymbolic reasoning."])
 section("Scholarly identifiers and sources")
 rows(["Official faculty directory: eng.ua.edu/eng-directory/dr-kaushik-roy/.","ORCID: orcid.org/0000-0001-6610-7845; Google Scholar: scholar.google.com/citations?user=LpOo_IUAAAAJ.","Dissertation: scholarcommons.sc.edu/etd/8563/.","2026 journal: doi.org/10.1145/3805697; AAAI demo: doi.org/10.1609/aaai.v40i48.42348; NeSy: arxiv.org/abs/2608.13617.","UA equipment award: autmn.ua.edu/news.html; UA innovation listing: aei.culverhouse.ua.edu/faculty-staff/2026-faculty-staff-award-winners/."])
-p("Updated October 2026. Public-facing academic CV; project proposals are differentiated from awarded funding. Please confirm complete institutional award records before official submission.","CVFine")
+
 def foot(c,d):
- c.setStrokeColor(HexColor("#9e1b32"));c.line(45,43,567,43)
- c.setFont("Helvetica",8);c.setFillColor(HexColor("#666666"))
- c.drawString(45,30,"KAUSHIK ROY | ACADEMIC CURRICULUM VITAE | OCTOBER 2026")
- c.drawRightString(567,30,str(d.page))
-SimpleDocTemplate(str(OUT),pagesize=letter,leftMargin=46,rightMargin=46,topMargin=46,bottomMargin=57,title="Kaushik Roy — Academic Curriculum Vitae").build(story,onFirstPage=foot,onLaterPages=foot)
+ w,h=letter
+ c.saveState()
+ c.setStrokeColor(HexColor("#E1D4D8"))
+ c.setLineWidth(.7)
+ c.line(46,49,w-46,49)
+ c.setFont("Helvetica",7.8)
+ c.setFillColor(MUTED)
+ c.drawString(46,35,"KAUSHIK ROY  /  ACADEMIC CURRICULUM VITAE")
+ c.drawRightString(w-46,35,f"{d.page:02d}")
+ if d.page>1:
+  c.setFillColor(CRIMSON)
+  c.rect(46,h-37,30,3,fill=1,stroke=0)
+ c.restoreState()
+SimpleDocTemplate(str(OUT),pagesize=letter,leftMargin=51,rightMargin=51,topMargin=55,bottomMargin=67,title="Kaushik Roy | Academic Curriculum Vitae",author="Kaushik Roy").build(story,onFirstPage=foot,onLaterPages=foot)
 print("CV built",OUT,OUT.stat().st_size)
