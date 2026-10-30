@@ -1,75 +1,51 @@
 #!/usr/bin/env python3
-"""Build a printable academic CV from the maintained scholarly archive."""
+"""Rebuild a new CV from current public faculty-site publication records, not old CVs."""
 from pathlib import Path
-import re, html
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, KeepTogether
-from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from html.parser import HTMLParser
+from reportlab.platypus import SimpleDocTemplate,Paragraph
+from reportlab.lib.styles import getSampleStyleSheet,ParagraphStyle
 from reportlab.lib.colors import HexColor
-from reportlab.lib.enums import TA_CENTER
 from reportlab.lib.pagesizes import letter
-
-OUT=Path("files/Kaushik_Roy_CV_2026.pdf")
-OUT.parent.mkdir(exist_ok=True)
-s=getSampleStyleSheet()
-s.add(ParagraphStyle(name="CVTitle",parent=s["Title"],fontName="Helvetica-Bold",fontSize=21,leading=26,textColor=HexColor("#9E1B32"),spaceAfter=8))
-s.add(ParagraphStyle(name="CVHeading",parent=s["Heading2"],fontSize=12,leading=16,textColor=HexColor("#9E1B32"),spaceBefore=15,spaceAfter=6))
-s.add(ParagraphStyle(name="CVSub",parent=s["Heading3"],fontSize=10,leading=14,spaceBefore=10,spaceAfter=4))
-s.add(ParagraphStyle(name="CVBody",parent=s["BodyText"],fontSize=8.7,leading=12.5,spaceAfter=5))
-s.add(ParagraphStyle(name="CVSmall",parent=s["BodyText"],fontSize=8,leading=11,spaceAfter=4,textColor=HexColor("#555555")))
+from xml.sax.saxutils import escape
+class Parse(HTMLParser):
+ def __init__(self):super().__init__();self.records=[];self.in_item=False;self.current=""
+ def handle_starttag(self,tag,attrs):
+  if tag=="div" and ("class","pub-item") in attrs:self.in_item=True;self.current=""
+ def handle_data(self,data):
+  if self.in_item:self.current+=data+" "
+ def handle_endtag(self,tag):
+  if tag=="div" and self.in_item:
+   self.records.append(" ".join(self.current.split()));self.in_item=False
+source=Path("_pages/publications.md").read_text(encoding="utf-8")
+parser=Parse();parser.feed(source)
+s=getSampleStyleSheet();s.add(ParagraphStyle(name="CVHeader",parent=s["Heading2"],textColor=HexColor("#9e1b32"),spaceBefore=16))
 story=[]
-def para(text,style="CVBody"):
-    text=html.escape(text).replace("&amp;","&amp;")
-    story.append(Paragraph(text,s[style]))
-def section(text):para(text,"CVHeading")
-def bullet(text):para("•  "+text)
-para("KAUSHIK ROY","CVTitle")
-para("Assistant Professor of Computer Science | The University of Alabama | Tuscaloosa, AL","CVBody")
-para("kroy2@ua.edu | https://kauroy1994.github.io/home/ | https://scholar.google.com/citations?user=LpOo_IUAAAAJ","CVSmall")
-section("ACADEMIC APPOINTMENTS")
-bullet("2025–present: Assistant Professor, Department of Computer Science, The University of Alabama.")
-section("EDUCATION")
-bullet("Ph.D., Computer Science and Engineering, University of South Carolina, 2025. Dissertation: Process-Grounded Knowledge-Infused Learning and Decision Making. Advisor: Amit Sheth.")
-bullet("M.S., Computer Science, Indiana University Bloomington, 2017.")
-bullet("B.E., Computer Science, R.V. College of Engineering, 2015.")
-section("RESEARCH INTERESTS")
-para("Neurosymbolic and knowledge-infused AI; process-grounded learning; causal reasoning; trustworthy and agentic AI; sequential decision-making; healthcare and manufacturing applications.")
-section("RESEARCH APPOINTMENTS AND AFFILIATIONS")
-for x in ["BRAINS Lab, The University of Alabama — research affiliation.","Artificial Intelligence Institute, University of South Carolina — Graduate Research Assistant, 2020–2025.","Bosch Center for Artificial Intelligence — AI Researcher, summer 2024 and summer 2023.","Samsung Research America — AI Researcher, summer 2022.","The Alan Turing Institute — Visiting Researcher, fall 2021.","StARLinG Lab, University of Texas at Dallas — Research Assistant, 2017–2020."]:bullet(x)
-section("RESEARCH SUPPORT AND PROPOSAL ACTIVITY")
-for x in ["2026 UA SCoE CORE Equipment Funding ($30,000 multi-investigator award) — listed collaborator; individual allocation not asserted.","Contributor to NSF EAGER #2335967, Knowledge-Guided Neurosymbolic AI with Guardrails for Safe Virtual Health Assistants (PI: Amit Sheth).","Contributor to NSF EAGER #2133842, Advancing Neurosymbolic AI with Deep Knowledge-Infused Learning (PI: Amit Sheth).","2026: Research proposal development in trustworthy neurosymbolic AI, manufacturing datasets, and causal decision support; submissions are not represented as awards."]:bullet(x)
-section("PEER-REVIEWED PUBLICATIONS AND SCHOLARLY OUTPUTS")
-para("The following is a consolidated record of newer publications and the bibliography from the author's earlier public academic CV. Publication metadata should be checked against publisher records for formal applications.","CVSmall")
-for x in ["Roy, K., et al. (2026). Exploring the Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments. ACM Transactions on Computing for Healthcare.","Ramnani, S., Roy, K., and Sheth, A. (2026). MATRIX: Mental heAlth diagnostics Through Real time Intelligent unified X-AI attribution reasoning. Frontiers in Digital Health.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2026). Metatuning: An Empirical Study of Judge-Guided Prompt Refinement and Its Boundary Conditions. Neurosymbolic Artificial Intelligence.","Tripathi, H., Roy, K., Neupane, S., and Rahimi, S. (2026). How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights. NeSy 2026.","Garimella, R., Roy, K., et al. (2026). In-Situ Eval: A Modular Framework for Custom and Real-Time RAG Benchmarking. AAAI Demonstration Track."]:bullet(x)
-archive=Path("_pages/markdown.md").read_text(encoding="utf8")
-lines=archive.splitlines()
-active=False
-for line in lines:
-    if line.startswith("## 📚 Publications"):active=True;continue
-    if line.startswith("## 📹 Tutorials and Talks"):break
-    if not active:continue
-    if line.startswith("### "):
-        section(re.sub(r"[^A-Za-z0-9 ,&/()-]","",line[4:]).strip().upper())
-    elif re.match(r"^\d+\.\s",line):
-        cleaned=re.sub(r"\[\[([^]]+)\]\]\([^)]*\)",r" [\1]",line)
-        cleaned=re.sub(r"\[([^]]+)\]\([^)]*\)",r"\1",cleaned)
-        cleaned=re.sub(r"[*_`]+","",cleaned)
-        cleaned=re.sub(r"^\d+\.\s*","",cleaned)
-        bullet(cleaned[:850])
-section("SELECTED TALKS AND TUTORIALS")
-for x in ["2024: Neurosymbolic Customized and Compact CoPilots, International Semantic Web Conference tutorial.","2024: Healthcare Assistance Challenges-Driven Neurosymbolic AI, Ontolog Summit invited talk.","2024: Knowledge-infused Neurosymbolic AI for Mental Healthcare, University of Florida ICCC.","2023: Causal AI for Web and Health Care, ACM Web Conference tutorial.","2022: Knowledge-infused Reinforcement Learning, Knowledge Graph Conference tutorial.","2020: Knowledge-infused Statistical Learning for Social Good Applications, PyData Berlin."]:bullet(x)
-section("SELECTED PROFESSIONAL SERVICE")
-for x in ["Guest Editor, IEEE Internet Computing special issue on Civilizing and Humanizing AI.","Guest Editor, Information special issue on information integration, language models, and knowledge graphs.","Program Committee, AAAI 2024 Fall Symposium on Large Language Models for Knowledge Graph and Ontology Engineering.","Organizing Committee, KiL 2023 at KDD.","Organizing Committee, Collaborative Assistants for the Society (CASY), 2022."]:bullet(x)
-section("MENTORING AND TEACHING")
-bullet("Doctoral student supervision: Ashraf Abdul-Muumin, University of Alabama.")
-bullet("Curriculum development: Computational Foundations of Machine Learning (CS 483/583); AI and MLOps topics.")
-section("MEDIA AND OUTREACH")
-bullet("AI in the Family (2025) — film listed on IMDb, https://www.imdb.com/title/tt38192436/ (specific credit should be verified).")
-bullet("Recorded public talks and tutorials on YouTube; see faculty website's Beyond Research page.")
-para("Updated October 2026 | Generated from the author's academic website and archived public CV. This is a faculty-website CV, not a certified grant or immigration dossier.","CVSmall")
-def page(canvas,doc):
-    canvas.setStrokeColor(HexColor("#9E1B32"));canvas.line(44,42,568,42)
-    canvas.setFont("Helvetica",8);canvas.setFillColor(HexColor("#666666"))
-    canvas.drawString(44,30,"KAUSHIK ROY | ACADEMIC CURRICULUM VITAE")
-    canvas.drawRightString(568,30,str(doc.page))
-SimpleDocTemplate(str(OUT),pagesize=letter,rightMargin=44,leftMargin=44,topMargin=44,bottomMargin=57,title="Kaushik Roy - Academic Curriculum Vitae").build(story,onFirstPage=page,onLaterPages=page)
-print("Wrote",OUT)
+def line(t):story.append(Paragraph(escape(t),s["BodyText"]))
+def head(t):story.append(Paragraph(escape(t),s["CVHeader"]))
+story.append(Paragraph("KAUSHIK ROY",s["Title"]))
+line("Assistant Professor of Computer Science | The University of Alabama | kroy2@ua.edu | 3031 Cyber Hall")
+head("Research")
+line("Neurosymbolic AI; process-grounded learning; causal reasoning; trustworthy agents; explainable decisions; healthcare and manufacturing.")
+head("Appointments and affiliations")
+for t in ["2025–present: Assistant Professor, University of Alabama","Research affiliate: BRAINS Lab, University of Alabama","2020–2025: Graduate Research Assistant, Artificial Intelligence Institute, University of South Carolina"]:line(t)
+head("Education")
+for t in ["Ph.D. Computer Science and Engineering, University of South Carolina, 2025; advisor Amit Sheth; dissertation Process-Grounded Knowledge-Infused Learning and Decision Making","M.S. Computer Science, Indiana University Bloomington, 2017","B.E. Computer Science, R.V. College of Engineering, 2015"]:line(t)
+head("Research experience")
+for t in ["Bosch Center for Artificial Intelligence: summer 2023 and summer 2024","Samsung Research America: summer 2022","The Alan Turing Institute: fall 2021","StARLinG Lab, University of Texas at Dallas: 2017–2020"]:line(t)
+head("Research support and proposal activity")
+for t in ["2026: collaborator, UA SCoE CORE Equipment Funding, multi-investigator award ($30,000 total; no individual allocation claimed)","Contributions to NSF EAGER #2335967 and #2133842 (PI Amit Sheth)","2026: proposals and concepts in trustworthy AI, manufacturing data and causal decision support; not claimed as awarded funding"]:line(t)
+head("Publications — current verified website bibliography")
+for item in parser.records:line("• "+item)
+head("Additional research outputs")
+for t in ["Ramnani, Roy and Sheth (2026). MATRIX: Mental heAlth diagnostics Through Real time Intelligent unified X-AI attribution reasoning. Frontiers in Digital Health.","Pallagani, Roy et al. (2024). On the Prospects of Incorporating Large Language Models in Automated Planning and Scheduling. ICAPS.","Roy, Khandelwal et al. (2024). GEAR-Up: Generative AI and External Knowledge-Based Retrieval. AAAI.","Roy, Gaur et al. (2023). Proknow: Process Knowledge for Safety Constrained and Explainable Question Generation. Frontiers in Big Data.","Roy, Zhang, Gaur and Sheth (2021). Knowledge-infused Policy Gradients with Upper Confidence Bound for Relational Bandits. ECML PKDD."]:line("• "+t)
+head("Selected invited talks and service")
+for t in ["ISWC 2024 tutorial: Neurosymbolic Customized and Compact CoPilots","Ontolog Summit 2024: Healthcare Assistance Challenges-Driven Neurosymbolic AI","University of Florida ICCC 2024 invited talk","Guest Editor: IEEE Internet Computing and Information special issues","Program Committee: AAAI 2024 Fall Symposium on LLMs for KG and Ontology Engineering","Organizing Committee: KiL 2023 at KDD; CASY 2022"]:line("• "+t)
+head("Mentoring and outreach")
+line("Ph.D. student: Ashraf Abdul-Muumin. Curriculum development: CS 483/583 Computational Foundations of Machine Learning.")
+line("Film: AI in the Family (2025), IMDb tt38192436. Personal YouTube: youtube.com/@kaushikroy4041.")
+head("Verification")
+line("UA directory: eng.ua.edu/eng-directory/dr-kaushik-roy/ | ORCID: 0000-0001-6610-7845 | Scholar Commons dissertation 8563")
+line("Prepared October 2026 from newly curated public records and current publication entries; this is a selected CV.")
+out=Path("files/Kaushik_Roy_CV_2026.pdf");out.parent.mkdir(exist_ok=True)
+SimpleDocTemplate(str(out),pagesize=letter).build(story)
+print("Built",out,len(parser.records))
