@@ -42,7 +42,13 @@ lede: "Journal editorships, event organization, program committees, peer review,
 - **2023 · University of Maryland, Baltimore County, CMSC 478** — *Automatic Differentiation and Optimization Strategies*. [Course](https://manasgaur.github.io/Courses/)
 - **2022 · University of Maryland, Baltimore County, CMSC 478** — *Interpretable Machine Learning and Hoeffding's Inequality*. [Recorded lecture](https://www.youtube.com/watch?v=0oCELvPrkMk)
 
-**Video collections:** [Seminar playlist I](https://www.youtube.com/playlist?list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc) · [Seminar playlist II](https://www.youtube.com/playlist?list=PLDkTXXf-noPk)
+### Seminar Lecture Recordings
+
+- [Seminar class lecture — recording 1](https://youtu.be/ms373MD1Hps)
+- [Interpretable Machine Learning and Hoeffding's Inequality — recording](https://youtu.be/0oCELvPrkMk)
+- [Seminar class lecture — recording 3](https://youtu.be/MC7jiLmDzu0)
+
+[Seminar playlist I](https://www.youtube.com/playlist?list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc) · [Seminar playlist II](https://www.youtube.com/playlist?list=PLDkTXXf-noPk)
 
 ## Peer Review
 
