@@ -32,23 +32,11 @@ lede: "Journal editorships, event organization, program committees, peer review,
 - **2024 · International Semantic Web Conference (ISWC)** — *Neurosymbolic Customized and Compact CoPilots*, tutorial co-presenter. [Conference program](https://iswc.umbc.edu/program/accepted-tutorials/)
 - **2020 · PyData Berlin** — *Knowledge-infused Statistical Learning for Social Good*, with Manas Gaur. [University repository record](https://scholarcommons.sc.edu/aii_fac_pub/588/)
 
-## University Seminar and Guest Lectures
+## Seminar Talks
 
-- **2024 · University of South Carolina, CSCE 771** — *Language Models: BERT, Mamba, and GPT*. [Course](https://sites.google.com/site/biplavsrivastava/teaching/nlp-csce-771-fall-2024-computer-processing-of-natural-language)
-- **2024 · University of South Carolina, CSCE 791** — *AI in Healthcare: Knowledge-infused Neurosymbolic AI*. [Seminar](https://cse.sc.edu/~sur/csce791_f20/index.html)
-- **2024 · University of Maryland, Baltimore County, CMSC 691** — *Knowledge-infused Neurosymbolic AI: Knowledge Graphs for Enhanced Semantics*. [Course](https://kil-workshop.github.io/CMSC691/)
-- **2024 · University of South Carolina, CSCE 590** — *Constrained Optimization*. [Course](https://vigsnar.github.io/teaching.html)
-- **2023 · University of South Carolina, CSCE 790** — *Transformers and Liquid Time Networks*; *Recurrent Neural Networks, LSTMs, Neural ODEs, and Positional Encodings*. [Course](https://vigsnar.github.io/csce.html)
-- **2023 · University of Maryland, Baltimore County, CMSC 478** — *Automatic Differentiation and Optimization Strategies*. [Course](https://manasgaur.github.io/Courses/)
-- **2022 · University of Maryland, Baltimore County, CMSC 478** — *Interpretable Machine Learning and Hoeffding's Inequality*. [Recorded lecture](https://www.youtube.com/watch?v=0oCELvPrkMk)
-
-### Seminar Lecture Recordings
-
-- [Seminar class lecture — recording 1](https://youtu.be/ms373MD1Hps)
-- [Interpretable Machine Learning and Hoeffding's Inequality — recording](https://youtu.be/0oCELvPrkMk)
-- [Seminar class lecture — recording 3](https://youtu.be/MC7jiLmDzu0)
-
-[Seminar playlist I](https://www.youtube.com/playlist?list=PLUkZdoAFrCu-WgzTYpPLBz3cVoTVEUsOc) · [Seminar playlist II](https://www.youtube.com/playlist?list=PLDkTXXf-noPk)
+- [Seminar lecture — recording 1](https://youtu.be/ms373MD1Hps)
+- [Interpretable Machine Learning and Hoeffding's Inequality](https://youtu.be/0oCELvPrkMk)
+- [Seminar lecture — recording 3](https://youtu.be/MC7jiLmDzu0)
 
 ## Peer Review
 
