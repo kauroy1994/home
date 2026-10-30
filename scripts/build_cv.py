@@ -54,10 +54,12 @@ section("Other published research proceedings")
 rows(["Chaudhuri, S. K., Kleppinger, J. W., Nag, R., Roy, K., et al. (2021). A CdZnTeSe Gamma Spectrometer Trained by Deep Convolutional Neural Network for Radioisotope Identification. Hard X-Ray, Gamma-Ray, and Neutron Detector Physics XXIII, SPIE Proceedings, Vol. 11838."])
 section("Peer-reviewed conferences and demonstrations — 2026–2025")
 rows(["Tripathi, H., Roy, K., Neupane, S., and Rahimi, S. (2026). How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights. NeSy 2026 (accepted conference presentation); arXiv:2608.13617.","Garimella, R., Roy, K., Shyalika, C., and Sheth, A. (2026). In-Situ Eval: A Modular Framework for Custom and Real-Time RAG Benchmarking. AAAI 2026 Demonstration Track. doi:10.1609/aaai.v40i48.42348.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2025). Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems. NeSy 2025, PMLR 284:957–976."])
+section("Publisher-verified conference and workshop citations")
+rows(["Roy, K., Khandelwal, V., Vera, V., Surana, H., Heckman, H., and Sheth, A. (2024). GEAR-Up: Generative AI and External Knowledge-Based Retrieval: Upgrading Scholarly Article Searches for Systematic Reviews. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23823–23825. Demonstration Track. doi:10.1609/aaai.v38i21.30577.","Gupta, S., Agarwal, A., Gaur, M., Roy, K., Narayanan, V., Kumaraguru, P., and Sheth, A. (2022). Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts. Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (CLPsych), 137–147. Association for Computational Linguistics. doi:10.18653/v1/2022.clpsych-1.12.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2025). Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems. Proceedings of the 19th International Conference on Neurosymbolic Learning and Reasoning, PMLR 284:957–976."])
 section("Published book chapters")
 rows(["Roy, K., Wu, S., and Oltramari, A. (2025). Enhancing Foundation Model-Based Reasoning with Neuro-Symbolic Cognitive Methods. In Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press, pp. 712–739. doi:10.3233/FAIA250228.","Roy, K., Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). ProKnow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models. In Science and Technology – Recent Updates and Future Prospects, Vol. 2."])
-section("Additional published bibliography (2024 and earlier)")
-p("The entries below are reconstructed and reformatted from the author's earlier public scholarly bibliography, preserving historical output rather than restricting the CV to recent highlights.","CVFine")
+section("Conference proceedings — 2024 and earlier")
+p("The following entries are published proceedings records, not preprints. Conference, symposium, and workshop papers are separated by venue.","CVFine")
 raw=Path("_pages/markdown.md").read_text(encoding="utf-8")
 start=raw.index("## 📚 Publications")
 end=raw.index("## 📹 Tutorials and Talks")
@@ -80,9 +82,10 @@ def flush():
 for ln in part.splitlines():
  if ln.startswith("### "):
   flush(); category=clean(ln[4:]);
-  if "Book Chapters" not in category and "Journal Publications" not in category:sub(category)
+  if "Conference Publications" in category:sub("Conferences and demonstrations")
+  elif "Symposium and Workshop Publications" in category:sub("Symposium and workshop proceedings")
  elif re.match(r"^\d+\.\s",ln):
-  flush();buf=[ln] if not any(x in (category or "") for x in ("Book Chapters","Journal Publications")) else []
+  flush();buf=[ln] if any(x in (category or "") for x in ("Conference Publications","Symposium and Workshop Publications")) else []
  elif buf and ln.strip():
   buf.append(ln)
 flush()
