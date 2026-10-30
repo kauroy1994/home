@@ -19,7 +19,6 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
     </div>
     <div class="hero-photo-wrap">
       <img class="hero-photo" src="https://github.com/kauroy1994.png" alt="Portrait of Dr. Kaushik Roy" width="400" height="470" fetchpriority="high">
-      <p class="hero-photo-caption">Tuscaloosa, Alabama · Est. at UA 2025</p>
     </div>
   </div>
 </section>
