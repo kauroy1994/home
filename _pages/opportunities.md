@@ -23,6 +23,6 @@ Undergraduates interested in research should briefly describe their technical pr
 
 We welcome discussions with researchers across academia, industry, healthcare, and manufacturing. For a useful first conversation, include a research question, the kind of expertise or data involved, and a concrete possible starting point.
 
-<div class="callout"><p><strong>Availability:</strong> This is an invitation to inquire, **not** an announcement of an open, funded position or a commitment to admit or hire. Funding and positions depend on current resources and University procedures.</p></div>
+
 
 [View research themes]({{ '/research/' | relative_url }}) · [Read publications]({{ '/publications/' | relative_url }}) · [Email Dr. Roy](mailto:kroy2@ua.edu)

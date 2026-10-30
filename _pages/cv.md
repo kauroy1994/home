@@ -43,5 +43,5 @@ For paper titles, venues, and persistent DOI links, see [Selected Publications](
 **Office:** 3031 Cyber Hall, The University of Alabama  
 **Email:** [kroy2@ua.edu](mailto:kroy2@ua.edu)  
 **Telephone:** [(205) 348-2171](tel:+12053482171)  
-Source: [University faculty directory](https://eng.ua.edu/eng-directory/dr-kaushik-roy/).
+
 

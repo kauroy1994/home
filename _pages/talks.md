@@ -22,4 +22,3 @@ Research-community tutorials have covered **knowledge-infused AI, mental healthc
 
 If you would like to discuss an invited presentation, tutorial, panel, or interdisciplinary research conversation, please contact me at [kroy2@ua.edu](mailto:kroy2@ua.edu).
 
-<p class="muted">This is a selective, source-linked record; it does not purport to contain every prior presentation.</p>

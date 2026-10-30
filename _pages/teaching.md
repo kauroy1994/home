@@ -17,7 +17,7 @@ I emphasize the relationship between mathematical models, implementable systems,
   <div class="info-card"><p class="kicker">SPECIAL TOPICS</p><h3>Foundations of AI &amp; MLOps</h3><p>Curricular development in classical ML, language models, retrieval, evaluation, reproducibility, and model monitoring.</p></div>
 </div>
 
-<div class="callout"><p><strong>Course-status note:</strong> Topics and course materials shown here reflect curriculum development and teaching interests. They do not constitute an official term-specific course schedule. Consult the <a href="https://cs.ua.edu/">Department of Computer Science</a> and University course listings for current offerings.</p></div>
+
 
 ## Student projects and mentoring
 

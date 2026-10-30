@@ -36,4 +36,3 @@ lede: "A curated list of recent and representative publications. For the most co
 
 <div class="pub-item"><h3>Healthcare Assistance Challenges-Driven Neurosymbolic AI</h3><p class="authors"><strong>Kaushik Roy</strong></p><p class="venue">Biomedical Journal of Scientific &amp; Technical Research · 2024</p><p class="links"><a href="https://doi.org/10.26717/BJSTR.2024.58.009111">DOI / Paper ↗</a></p></div>
 
-<div class="callout"><p><strong>Publication list scope:</strong> This is a selected bibliography, not a claim of complete coverage. A companion 2026 sepsis preprint, <a href="https://doi.org/10.64898/2026.04.23.26351412"><em>From Protocol to Practice</em></a>, is linked separately to distinguish preprint versions and related work. Citation counts are intentionally omitted because they change frequently.</p></div>
