@@ -69,11 +69,15 @@ part=raw[start:end]
 category=None
 buf=[]
 def clean(x):
- x=re.sub(r"\[\[([^]]+)\]\]\([^)]*\)",r" [\1]",x)
- x=re.sub(r"\[([^]]+)\]\([^)]*\)",r"\1",x)
- x=re.sub(r"\*\*|\*|_","",x)
- x=re.sub(r"\s+"," ",x)
+ # Strip Markdown link markup entirely rather than printing inert [paper],
+ # [code], [video], [website], or similar pseudo-links in the PDF.
+ x=re.sub(r"\[\[([^]]+)\]\]\([^)]*\)", "", x)
+ x=re.sub(r"\[([^]]+)\]\([^)]*\)", "", x)
+ x=re.sub(r"\[(?:paper|code|video|website|slides|preprint|source|chapter preprint)\]", "", x, flags=re.I)
+ x=re.sub(r"\*\*|\*|_", "", x)
+ x=re.sub(r"\s+", " ", x)
  return x.strip()
+
 def flush():
  global buf
  if buf:
