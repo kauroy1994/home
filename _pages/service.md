@@ -35,9 +35,9 @@ lede: "Journal editorships, event organization, program committees, peer review,
 
 ## Seminar Talks
 
-- **AI in Healthcare** — AI Institute, University of South Carolina; recorded lecture published January 7, 2025. An overview of artificial intelligence in healthcare, presented by Kaushik Roy. [Watch recording](https://youtu.be/ms373MD1Hps)
-- **Interpretable Machine Learning and Hoeffding's Inequality** — Guest lecture, CMSC 478 (Introduction to Machine Learning), University of Maryland, Baltimore County, 2022. Interpretability in machine learning and the role of Hoeffding's inequality in statistical learning. [Watch recording](https://youtu.be/0oCELvPrkMk)
-- **Task-dependent Meta-cognition for General Classes of Problems** — AI Institute, University of South Carolina; seminar delivered October 9, 2026. A research presentation on task-dependent metacognition and its application to general problem classes. [Watch recording](https://youtu.be/MC7jiLmDzu0)
+- **AI in Healthcare** — Guest lecture in the University of South Carolina AI Institute seminar class led by Prof. Amit Sheth. Published January 7, 2025. An overview of artificial intelligence applications in healthcare. [Recording](https://youtu.be/ms373MD1Hps) · [AI Institute course listings](https://aiisc.cse.sc.edu/courses.html)
+- **Interpretable Machine Learning and Hoeffding's Inequality** — Guest lecture, CMSC 478 (Introduction to Machine Learning), University of Maryland, Baltimore County, 2022. Interpretable machine learning and statistical learning bounds. [Recording](https://youtu.be/0oCELvPrkMk)
+- **Task-dependent Meta-cognition for General Classes of Problems** — Guest lecture in the University of South Carolina AI Institute seminar class led by Prof. Amit Sheth, October 9, 2026. Task-dependent metacognition and reasoning across general classes of problems. [Recording](https://youtu.be/MC7jiLmDzu0) · [AI Institute course listings](https://aiisc.cse.sc.edu/courses.html)
 
 ## Peer Review
 
