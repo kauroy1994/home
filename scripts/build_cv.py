@@ -55,7 +55,7 @@ rows(["Chaudhuri, S. K., Kleppinger, J. W., Nag, R., Roy, K., et al. (2021). A C
 section("Peer-reviewed conferences and demonstrations — 2026–2025")
 rows(["Tripathi, H., Roy, K., Neupane, S., and Rahimi, S. (2026). How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights. NeSy 2026 (accepted conference presentation); arXiv:2608.13617.","Garimella, R., Roy, K., Shyalika, C., and Sheth, A. (2026). In-Situ Eval: A Modular Framework for Custom and Real-Time RAG Benchmarking. AAAI 2026 Demonstration Track. doi:10.1609/aaai.v40i48.42348.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2025). Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems. NeSy 2025, PMLR 284:957–976."])
 section("Publisher-verified conference and workshop citations")
-rows(["Roy, K., Khandelwal, V., Vera, V., Surana, H., Heckman, H., and Sheth, A. (2024). GEAR-Up: Generative AI and External Knowledge-Based Retrieval: Upgrading Scholarly Article Searches for Systematic Reviews. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23823–23825. Demonstration Track. doi:10.1609/aaai.v38i21.30577.","Gupta, S., Agarwal, A., Gaur, M., Roy, K., Narayanan, V., Kumaraguru, P., and Sheth, A. (2022). Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts. Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (CLPsych), 137–147. Association for Computational Linguistics. doi:10.18653/v1/2022.clpsych-1.12.","Chattopadhyay, A., Dandekar, R., and Roy, K. (2025). Learning and Reasoning with Model-Grounded Symbolic Artificial Intelligence Systems. Proceedings of the 19th International Conference on Neurosymbolic Learning and Reasoning, PMLR 284:957–976."])
+rows(["Roy, K., Khandelwal, V., Vera, V., Surana, H., Heckman, H., and Sheth, A. (2024). GEAR-Up: Generative AI and External Knowledge-Based Retrieval: Upgrading Scholarly Article Searches for Systematic Reviews. Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23823–23825. Demonstration Track. doi:10.1609/aaai.v38i21.30577.","Gupta, S., Agarwal, A., Gaur, M., Roy, K., Narayanan, V., Kumaraguru, P., and Sheth, A. (2022). Learning to Automate Follow-up Question Generation using Process Knowledge for Depression Triage on Reddit Posts. Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology (CLPsych), 137–147. Association for Computational Linguistics. doi:10.18653/v1/2022.clpsych-1.12."])
 section("Published book chapters")
 rows(["Roy, K., Wu, S., and Oltramari, A. (2025). Enhancing Foundation Model-Based Reasoning with Neuro-Symbolic Cognitive Methods. In Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press, pp. 712–739. doi:10.3233/FAIA250228.","Roy, K., Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). ProKnow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models. In Science and Technology – Recent Updates and Future Prospects, Vol. 2."])
 section("Conference proceedings — 2024 and earlier")
@@ -77,7 +77,8 @@ def flush():
  if buf:
   txt=clean(" ".join(buf))
   txt=re.sub(r"^\d+\.\s*","",txt)
-  p("•  "+txt)
+  if not any(k in txt.lower() for k in ("gear-up: generative ai","learning to automate follow-up question generation")):
+   p("•  "+txt)
   buf=[]
 for ln in part.splitlines():
  if ln.startswith("### "):
