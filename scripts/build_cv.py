@@ -65,6 +65,8 @@ section("Additional symposium and workshop publications")
 rows(["Roy, K., Oltramari, A., Zi, Y., Shyalika, C., Narayanan, V., and Sheth, A. (2024). Causal Event Graph-Guided Language-based Spatiotemporal Question Answering. Proceedings of the AAAI Symposium Series, 3(1), 227–233. doi:10.1609/aaaiss.v3i1.31204.","Roy, K., Zi, Y., Gaur, M., Malekar, J., Zhang, Q., Narayanan, V., and Sheth, A. (2023). Process Knowledge-Infused Learning for Clinician-Friendly Explanations. Proceedings of the AAAI Symposium Series, 1(1), 154–160. doi:10.1609/aaaiss.v1i1.27494.","Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-Slonim, D., Nanni, F., Resnik, P., Gaur, M., Roy, K., Inkster, B., Leintz, J., and Liakata, M. (2022). Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts. Proceedings of the Eighth Workshop on Computational Linguistics and Clinical Psychology, 184–198. Association for Computational Linguistics. doi:10.18653/v1/2022.clpsych-1.16."])
 section("Published book chapters")
 rows(["Roy, K., Wu, S., and Oltramari, A. (2025). Enhancing Foundation Model-Based Reasoning with Neuro-Symbolic Cognitive Methods. In Handbook on Neurosymbolic AI and Knowledge Graphs, IOS Press, pp. 712–739. doi:10.3233/FAIA250228.","Roy, K., Gaur, M., Soltani, M., Rawte, V., Kalyan, A., and Sheth, A. (2024). ProKnow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models. In Science and Technology – Recent Updates and Future Prospects, Vol. 2."])
+section("Additional full-author conference and workshop citations")
+rows(["Pallagani, V., Muppasani, B. C., Roy, K., Fabiano, F., Loreggia, A., Murugesan, K., Srivastava, B., Rossi, F., Horesh, L., and Sheth, A. (2024). On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS). Proceedings of ICAPS, 34(1), 432–444. doi:10.1609/icaps.v34i1.31503.","Rawte, V., Roy, K., Chakraborty, M., Gaur, M., Akbari, H., Kikani, P., Faldu, K., and Sheth, A. (2022). TDLR: Top (Semantic)-Down (Syntactic) Language Representation. NeurIPS Workshop on All Things Attention."])
 section("Conference, symposium and workshop proceedings — 2024 and earlier")
 
 raw=Path("_pages/markdown.md").read_text(encoding="utf-8")
@@ -88,7 +90,7 @@ def flush():
  if buf:
   txt=clean(" ".join(buf))
   txt=re.sub(r"^\d+\.\s*","",txt)
-  if not any(k in txt.lower() for k in ("gear-up: generative ai","learning to automate follow-up question generation","causal event graph-guided language-based spatiotemporal","process knowledge-infused learning for clinician-friendly","overview of the clpsych 2022 shared task")):
+  if not any(k in txt.lower() for k in ("gear-up: generative ai","learning to automate follow-up question generation","causal event graph-guided language-based spatiotemporal","process knowledge-infused learning for clinician-friendly","overview of the clpsych 2022 shared task","on the prospects of incorporating large language models","tdlr: top semantic-down syntactic language representation","tdlr: top (semantic)-down (syntactic) language representation")):
    p("•  "+txt)
   buf=[]
 for ln in part.splitlines():
