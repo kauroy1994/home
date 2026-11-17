@@ -31,6 +31,24 @@ description: "Research projects led and co-supervised by Dr. Kaushik Roy at The 
     <div><span>Company contact</span><strong>Raj Krishnan</strong><small>Founder, AI for Services LLC</small></div>
   </div>
 
+  <div class="project-team">
+    <h3>Project team</h3>
+    <div class="project-team-grid">
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy">
+        <div><span class="project-person-role">Assigned researcher</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Roy research group</p></div>
+      </article>
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy">
+        <div><span class="project-person-role">Academic supervisor</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
+      </article>
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/raj-krishnan.jpg" alt="Raj Krishnan" loading="lazy">
+        <div><span class="project-person-role">Company contact</span><h4>Raj Krishnan</h4><p>Founder, AI for Services LLC</p></div>
+      </article>
+    </div>
+  </div>
+
   <div class="project-content-grid">
     <div class="project-narrative">
       <h3>Research objective</h3>
@@ -73,6 +91,32 @@ description: "Research projects led and co-supervised by Dr. Kaushik Roy at The 
     <div><span>Co-supervisors</span><strong>Dr. Kaushik Roy</strong><small><a href="https://eng.ua.edu/eng-directory/dr-noorbakhsh-amiri-golilarz/">Dr. Noorbakhsh Amiri Golilarz</a></small></div>
     <div><span>Roy group</span><strong><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></strong></div>
     <div><span>BRAINS Lab researchers</span><strong><a href="https://sites.ua.edu/brains/team/">Manish Kansana</a> · Mohammed</strong></div>
+  </div>
+
+  <div class="project-team">
+    <h3>Joint research team</h3>
+    <div class="project-team-grid">
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy">
+        <div><span class="project-person-role">Co-supervisor · Roy group</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
+      </article>
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/noorbakhsh-amiri-golilarz.jpg" alt="Dr. Noorbakhsh Amiri Golilarz" loading="lazy">
+        <div><span class="project-person-role">Co-supervisor · BRAINS Lab</span><h4><a href="https://eng.ua.edu/eng-directory/dr-noorbakhsh-amiri-golilarz/">Dr. Noorbakhsh Amiri Golilarz</a></h4><p>BRAINS Lab Director</p></div>
+      </article>
+      <article class="project-person">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy">
+        <div><span class="project-person-role">Researcher · Roy group</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Ph.D. student</p></div>
+      </article>
+      <article class="project-person">
+        <div class="project-person-initials" aria-hidden="true">MK</div>
+        <div><span class="project-person-role">Researcher · BRAINS Lab</span><h4><a href="https://sites.ua.edu/brains/team/">Manish Kansana</a></h4><p>Ph.D. student</p></div>
+      </article>
+      <article class="project-person">
+        <div class="project-person-initials" aria-hidden="true">M</div>
+        <div><span class="project-person-role">Researcher · BRAINS Lab</span><h4>Mohammed</h4><p>BRAINS Lab</p></div>
+      </article>
+    </div>
   </div>
 
   <div class="project-content-grid">
