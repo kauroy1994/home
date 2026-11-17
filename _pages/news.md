@@ -6,6 +6,8 @@ eyebrow: LAB & FACULTY NEWS
 lede: "Research, publications, and academic activities."
 ---
 
+<div class="timeline-item"><time>2026</time><div><h3>Research award from AI for Services LLC</h3><p>Received <strong>$21,975 in industry research support</strong> from AI for Services LLC for work on a trustworthy AI assistant for NSF, NIH, and other research proposal authoring. The <a href="{{ '/projects/' | relative_url }}#proposal-authoring">project</a> investigates neurosymbolic agent architectures for accurate, auditable, and reliable research-writing assistance. <a href="{{ '/awards/' | relative_url }}">Award details ↗</a></p></div></div>
+
 <div class="timeline-item"><time>Aug 2026</time><div><h3>Sepsis compliance study accepted at NeSy 2026</h3><p>The paper <a href="https://arxiv.org/abs/2608.13617"><em>How Compliant is Sepsis Treatment?</em></a> explores expert-guided neuro-symbolic evaluation of clinical compliance. The preprint reports acceptance at NeSy 2026.</p></div></div>
 
 <div class="timeline-item"><time>Jul 2026</time><div><h3>ACM Transactions on Computing for Healthcare paper</h3><p><a href="https://doi.org/10.1145/3805697"><em>Exploring the Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments</em></a> appeared in the journal.</p></div></div>
