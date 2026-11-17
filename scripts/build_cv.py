@@ -72,6 +72,7 @@ row('2015','<b>B.E., Computer Science</b> · R. V. College of Engineering, Benga
 section('Research interests',3)
 plain('Neurosymbolic AI · Knowledge representation · Process-grounded and causal reasoning · Trustworthy agentic systems · Explainable AI · Healthcare AI · Sequential decision-making')
 section('Awards and research funding',4)
+row('','<b>AI for Services LLC</b> · Industry research award · USD 21,975')
 row('2026','<b>SCoE CORE Equipment Funding</b> · The University of Alabama, College of Engineering · $30,000 collaborative equipment award')
 row('2023–2025','<b>NSF EAGER #2335967</b> · Knowledge-Guided Neurosymbolic AI with Guardrails for Safe Virtual Health Assistants · Research contributor')
 row('2022–2024','<b>NSF EAGER #2133842</b> · Advancing Neurosymbolic AI with Deep Knowledge-Infused Learning · Research contributor')
