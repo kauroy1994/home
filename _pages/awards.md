@@ -6,9 +6,22 @@ eyebrow: AWARDS & RESEARCH SUPPORT
 lede: "Research awards and institutional support."
 ---
 
-## AI for Services LLC
+## 2026 · AI for Services LLC
 
-**Industry Research Award — USD 21,975**
+<div class="award-metrics">
+  <div><span>Award</span><strong>$21,975</strong><small>Industry research award</small></div>
+  <div><span>Institution</span><strong>AI for Services LLC</strong><small>Industry research support</small></div>
+  <div><span>Year</span><strong>2026</strong><small>Research award</small></div>
+</div>
+
+### Investigator
+
+<div class="award-team">
+  <article class="award-person">
+    <img src="https://github.com/kauroy1994.png" alt="Dr. Kaushik Roy" loading="lazy">
+    <div><h3>Kaushik Roy</h3><p>Assistant Professor, Computer Science</p><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Faculty profile ↗</a></div>
+  </article>
+</div>
 
 ## 2026 · SCoE CORE Equipment Funding
 
