@@ -6,6 +6,10 @@ eyebrow: AWARDS & RESEARCH SUPPORT
 lede: "Research awards and institutional support."
 ---
 
+## AI for Services LLC
+
+**Industry Research Award — USD 21,975**
+
 ## 2026 · SCoE CORE Equipment Funding
 
 <div class="award-metrics">
