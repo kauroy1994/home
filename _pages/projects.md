@@ -34,17 +34,17 @@ description: "Research projects led and co-supervised by Dr. Kaushik Roy at The 
   <div class="project-team">
     <h3>Project team</h3>
     <div class="project-team-grid">
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy">
-        <div><span class="project-person-role">Assigned researcher</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Roy research group</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Assigned researcher</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Roy research group</p></div>
       </article>
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy">
-        <div><span class="project-person-role">Academic supervisor</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Academic supervisor</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
       </article>
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/raj-krishnan.jpg" alt="Raj Krishnan" loading="lazy">
-        <div><span class="project-person-role">Company contact</span><h4>Raj Krishnan</h4><p>Founder, AI for Services LLC</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/raj-krishnan.jpg" alt="Raj Krishnan" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Company contact</span><h4>Raj Krishnan</h4><p>Founder, AI for Services LLC</p></div>
       </article>
     </div>
   </div>
@@ -96,25 +96,25 @@ description: "Research projects led and co-supervised by Dr. Kaushik Roy at The 
   <div class="project-team">
     <h3>Joint research team</h3>
     <div class="project-team-grid">
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy">
-        <div><span class="project-person-role">Co-supervisor · Roy group</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/kaushik-roy.jpg" alt="Dr. Kaushik Roy" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Co-supervisor · Roy group</span><h4><a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">Dr. Kaushik Roy</a></h4><p>The University of Alabama</p></div>
       </article>
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/noorbakhsh-amiri-golilarz.jpg" alt="Dr. Noorbakhsh Amiri Golilarz" loading="lazy">
-        <div><span class="project-person-role">Co-supervisor · BRAINS Lab</span><h4><a href="https://eng.ua.edu/eng-directory/dr-noorbakhsh-amiri-golilarz/">Dr. Noorbakhsh Amiri Golilarz</a></h4><p>BRAINS Lab Director</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/noorbakhsh-amiri-golilarz.jpg" alt="Dr. Noorbakhsh Amiri Golilarz" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Co-supervisor · BRAINS Lab</span><h4><a href="https://eng.ua.edu/eng-directory/dr-noorbakhsh-amiri-golilarz/">Dr. Noorbakhsh Amiri Golilarz</a></h4><p>BRAINS Lab Director</p></div>
       </article>
-      <article class="project-person">
-        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy">
-        <div><span class="project-person-role">Researcher · Roy group</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Ph.D. student</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <img src="https://raw.githubusercontent.com/kauroy1994/AAAI-Symposium-Concept/main/assets/organizers/ashraf-abdul-muumin.jpg" alt="Ashraf Abdul-Muumin" loading="lazy" style="display:block;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;object-fit:cover;object-position:center 22%;border-radius:50%;">
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Researcher · Roy group</span><h4><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></h4><p>Ph.D. student</p></div>
       </article>
-      <article class="project-person">
-        <div class="project-person-initials" aria-hidden="true">MK</div>
-        <div><span class="project-person-role">Researcher · BRAINS Lab</span><h4><a href="https://sites.ua.edu/brains/team/">Manish Kansana</a></h4><p>Ph.D. student</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <div class="project-person-initials" aria-hidden="true" style="display:grid;place-items:center;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;border-radius:50%;font-size:1.15rem;">MK</div>
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Researcher · BRAINS Lab</span><h4><a href="https://sites.ua.edu/brains/team/">Manish Kansana</a></h4><p>Ph.D. student</p></div>
       </article>
-      <article class="project-person">
-        <div class="project-person-initials" aria-hidden="true">M</div>
-        <div><span class="project-person-role">Researcher · BRAINS Lab</span><h4>Mohammed</h4><p>BRAINS Lab</p></div>
+      <article class="project-person" style="display:flex;flex-direction:row;align-items:center;gap:12px;padding:11px 13px;min-height:76px;">
+        <div class="project-person-initials" aria-hidden="true" style="display:grid;place-items:center;width:56px;height:56px;min-width:56px;max-width:56px;min-height:56px;max-height:56px;flex:0 0 56px;aspect-ratio:1/1;border-radius:50%;font-size:1.15rem;">M</div>
+        <div style="padding:0;min-width:0;flex:1;"><span class="project-person-role">Researcher · BRAINS Lab</span><h4>Mohammed</h4><p>BRAINS Lab</p></div>
       </article>
     </div>
   </div>
