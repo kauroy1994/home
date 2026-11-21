@@ -28,6 +28,7 @@ lede: "Journal editorships, event organization, program committees, peer review,
 
 ## Invited Talks & Tutorials
 
+- **November 20, 2026 · Keynote · AICCT 2026** — *Beyond Pattern Recognition: Towards Reasoning, Explainability, and Autonomy in Artificial Intelligence*. 3rd International Conference on Advances in Intelligent Computing and Communication Technologies, Amity University Madhya Pradesh. [Keynote post](https://lnkd.in/p/eXkGT6iF).
 - **2024 · Ontolog Summit** — *Healthcare Assistance Challenges-Driven Neurosymbolic AI*, April 24, 2024. [Official program](https://ontologforum.com/index.php/ConferenceCall_2024_04_24) · [Presentation record](https://scholarcommons.sc.edu/aii_fac_pub/607/)
 - **2024 · University of Florida, Intelligent Clinical Care Center** — *Knowledge-infused Neurosymbolic Artificial Intelligence for Mental Healthcare*. [Presentation listing](https://wiki.aiisc.ai/index.php?title=Neurosymbolic_Artificial_Intelligence_Research_at_AIISC)
 - **2024 · International Semantic Web Conference (ISWC)** — *Neurosymbolic Customized and Compact CoPilots*, tutorial co-presenter. [Conference program](https://iswc.umbc.edu/program/accepted-tutorials/)
