@@ -70,7 +70,7 @@ description: "Dr. Kaushik Roy, Assistant Professor of Computer Science at The Un
   <div class="container">
     <div class="section-header"><div><span class="section-label">UPDATES</span><h2>Research &amp; beyond.</h2></div><a class="text-link" href="{{ '/news/' | relative_url }}">All updates</a></div>
     <div class="news-feed">
-      <div class="news-row"><span class="news-date">NOV 2026</span><p>Delivered <em>Beyond Pattern Recognition: Towards Reasoning, Explainability, and Autonomy in Artificial Intelligence</em> as a <a href="https://lnkd.in/p/eXkGT6iF">keynote at AICCT 2026</a>, hosted by Amity University Madhya Pradesh.</p></div>
+      <div class="news-row"><span class="news-date">NOV 2026</span><p>Delivered <em>Beyond Pattern Recognition: Towards Reasoning, Explainability, and Autonomy in Artificial Intelligence</em> as a <a href="https://lnkd.in/p/eXkGT6iF">keynote at AICCT 2026</a>, hosted by Amity University Madhya Pradesh. <a href="{{ '/files/2026_AICCT_Roy_Keynote_UA_Revised.html' | relative_url }}">View slides ↗</a></p></div>
       <div class="news-row"><span class="news-date">AUG 2026</span><p>Our expert-guided neuro-symbolic sepsis compliance study was accepted at <a href="https://2026.nesyconf.org/">NeSy 2026</a>.</p></div>
       <div class="news-row"><span class="news-date">JUL 2026</span><p>Our work on LLM-assisted mental health diagnostic assessments appeared in <a href="https://doi.org/10.1145/3805697">ACM Transactions on Computing for Healthcare</a>.</p></div>
       <div class="news-row"><span class="news-date">MAR 2026</span><p><a href="https://doi.org/10.1609/aaai.v40i48.42348">In-Situ Eval</a> appeared in the AAAI 2026 Demonstration Track.</p></div>
