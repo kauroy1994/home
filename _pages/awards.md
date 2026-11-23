@@ -14,6 +14,12 @@ lede: "Research awards and institutional support."
   <div><span>Year</span><strong>2026</strong><small>Research award</small></div>
 </div>
 
+<div class="award-compute-support">
+  <span>ADDITIONAL CLOUD COMPUTING SUPPORT</span>
+  <strong>USD 8,000 in Azure credits</strong>
+  <p>In-kind computing credits for the AI for Services research proposal-authoring project, separate from the $21,975 cash award. <a href="{{ '/projects/' | relative_url }}#proposal-authoring">Project details ↗</a></p>
+</div>
+
 ### Investigator
 
 <div class="award-team">

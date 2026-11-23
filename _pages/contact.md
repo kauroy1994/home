@@ -24,4 +24,4 @@ Tuscaloosa, Alabama, USA
 
 For prospective research students, please review the [Opportunities]({{ '/opportunities/' | relative_url }}) page first and include your background and research interests.
 
-<div class="callout"><p><strong>Location:</strong> <a href="https://www.ua.edu/">The University of Alabama</a>, Tuscaloosa, AL. Office and phone details are drawn from the official <a href="https://eng.ua.edu/eng-directory/dr-kaushik-roy/">UA directory</a>.</p></div>
+<div class="callout"><p><strong>Office location:</strong> 3031 Cyber Hall, <a href="https://www.ua.edu/">The University of Alabama</a>, Tuscaloosa, AL.</p></div>

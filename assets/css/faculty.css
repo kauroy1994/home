@@ -58,7 +58,8 @@
  .hero-description{max-width:34rem;margin:0 auto 22px}
  .hero .button-row{justify-content:center}
 }
-\n.hero-photo-wrap::before,.hero-photo-wrap::after{content:none!important;display:none!important;border:0!important;box-shadow:none!important}\n
+
+.hero-photo-wrap::before,.hero-photo-wrap::after{content:none!important;display:none!important;border:0!important;box-shadow:none!important}\n
 
 
 /* Research projects page */
@@ -164,3 +165,10 @@
 .award-person a{font-size:.76rem;line-height:1.4}
 @media(max-width:960px){.award-team{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.award-team{grid-template-columns:1fr;gap:9px}.award-person{padding:12px}.award-person>img{flex-basis:52px;width:52px;height:52px}}
+
+/* Azure computing credits associated with the AIFS research project */
+.award-compute-support{margin:0 0 30px;padding:18px 22px;background:linear-gradient(120deg,#fbf5f7,#fff);border:1px solid #eadde2;border-left:4px solid var(--crimson);border-radius:10px}
+.award-compute-support span{display:block;font-size:.71rem;font-weight:800;letter-spacing:.10em;color:var(--crimson);margin-bottom:7px}
+.award-compute-support strong{display:block;font-size:1.22rem;color:var(--crimson-ink);margin-bottom:6px}
+.award-compute-support p{font-size:.9rem;line-height:1.65;color:#50545f;margin:0}
+.award-compute-support a{font-weight:700}

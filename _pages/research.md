@@ -36,6 +36,8 @@ Healthcare process evaluation and diagnostic support motivate much of this work.
 
 ## Selected projects and research threads
 
+- **Trustworthy research proposal authoring:** An AI for Services LLC-supported project combining a $21,975 research award and $8,000 in Azure computing credits to investigate verifiable neurosymbolic agents. [Project details]({{ '/projects/' | relative_url }}#proposal-authoring).
+- **Neurosymbolic robot control:** Joint research with BRAINS Lab on executable task representations, planning, control, and runtime verification. [Project details]({{ '/projects/' | relative_url }}#robot-control).
 - **BRAINS Lab affiliation:** Interdisciplinary research in bioinspired robotics, AI, imaging and neurocognitive systems at UA. [BRAINS Lab](https://sites.ua.edu/brains/).
 - **Process-grounded learning:** Work emerging from the 2025 doctoral dissertation, [*Process-Grounded Knowledge-Infused Learning and Decision Making*](https://scholarcommons.sc.edu/etd/8563/).
 - **Reproducible LLM evaluation:** [In-Situ Eval](https://doi.org/10.1609/aaai.v40i48.42348), presented in the AAAI 2026 Demonstration Track.

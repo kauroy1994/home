@@ -24,8 +24,9 @@ description: "Research projects led and co-supervised by Dr. Kaushik Roy at The 
   <p class="project-summary">Develop an AI research assistant that helps researchers prepare NSF, NIH, and other research proposals—from interpreting a funding opportunity to organizing evidence, drafting sections, and checking requirements.</p>
 
   <div class="project-facts">
-    <div><span>Industry partner</span><strong><a href="https://aiforservices.com/">AI for Services LLC</a></strong></div>
-    <div><span>Research funding</span><strong>USD 21,975</strong></div>
+    <div><span>Industry partner</span><strong><a href="https://www.aiforservices.com/">AI for Services LLC</a></strong></div>
+    <div><span>Industry research award</span><strong>USD 21,975</strong><small>Cash research support</small></div>
+    <div><span>Cloud computing support</span><strong>USD 8,000 Azure credits</strong><small>In-kind credits; separate from the cash award</small></div>
     <div><span>Assigned researcher</span><strong><a href="https://github.com/chirix33">Ashraf Abdul-Muumin</a></strong><small>Roy research group</small></div>
     <div><span>Academic supervisor</span><strong>Dr. Kaushik Roy</strong><small>The University of Alabama</small></div>
     <div><span>Company contact</span><strong>Raj Krishnan</strong><small>Founder, AI for Services LLC</small></div>

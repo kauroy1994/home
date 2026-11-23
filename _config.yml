@@ -36,6 +36,8 @@ exclude:
   - package.json
   - vendor
   - markdown_generator
+  - _pages/archive-layout-with-content.md
+  - _pages/non-menu-page.md
   - talkmap.ipynb
   - talkmap.py
 markdown: kramdown
