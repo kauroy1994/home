@@ -54,4 +54,4 @@ lede: "Research awards and institutional support."
   </article>
 </div>
 
-<text class="award-sources"><a href="https://autmn.ua.edu/news.html">Award announcement ↗</a></text>
+<p class="award-sources"><a href="https://autmn.ua.edu/news.html">Award announcement ↗</a></p>

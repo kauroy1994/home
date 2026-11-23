@@ -12,7 +12,7 @@ lede: "Doctoral supervision, research affiliations, and selected scholarly colla
 
 ## Ph.D. students
 
-<div class="profile-card"><img src="https://github.com/chirix33.png" alt="GitHub profile portrait of Ashraf Abdul-Muumin" loading="lazy"><div><h3>Ashraf Abdul-Muumin</h3><p><strong>Ph.D. Student, Department of Computer Science, The University of Alabama.</strong></p><p>Doctoral advisee of Dr. Kaushik Roy.</p><p><a href="https://sites.ua.edu/brains/team/">BRAINS Lab team ↗</a> · <a href="https://github.com/chirix33">GitHub profile ↗</a></p></div></div>
+<div class="profile-card"><img src="https://github.com/chirix33.png" alt="GitHub profile portrait of Ashraf Abdul-Muumin" loading="lazy"><div><h3>Ashraf Abdul-Muumin</h3><p><strong>Ph.D. Student, Department of Computer Science, The University of Alabama.</strong></p><p>Doctoral advisee of Dr. Kaushik Roy.</p><p><a href="https://github.com/chirix33">GitHub profile ↗</a></p></div></div>
 
 ## Research affiliation
 
