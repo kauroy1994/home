@@ -10,6 +10,8 @@ lede: "A curated list of recent and representative publications. For the most co
 
 ## 2026
 
+<div class="pub-item"><h3>Beyond Pattern Recognition: Reasoning, Explainability, and Autonomy in Artificial Intelligence</h3><p class="authors"><strong>Kaushik Roy</strong></p><p class="venue">alphaXiv · 2026 · Keynote talk report</p><p class="links"><a href="https://www.alphaxiv.org/abs/2611.reasoning-explainability-autonomous-ai">Read talk report ↗</a><a href="{{ '/files/2026_AICCT_Roy_Keynote_UA_Revised.html' | relative_url }}">Keynote slides ↗</a></p></div>
+
 <div class="pub-item"><h3>Exploring the Potential of Large Language Models for Assisting with Mental Health Diagnostic Assessments</h3><p class="authors"><strong>Kaushik Roy</strong>, Harshul Surana, Darssan Eswaramoorthi, Yuxin Zi, Vedant Palit, Ritvik Garimella, Amit Sheth</p><p class="venue">ACM Transactions on Computing for Healthcare · 2026 · Peer-reviewed journal</p><p class="links"><a href="https://doi.org/10.1145/3805697">DOI / Paper ↗</a></p></div>
 
 <div class="pub-item"><h3>How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights</h3><p class="authors">Himanshu Tripathi, <strong>Kaushik Roy</strong>, Subash Neupane, Shahram Rahimi</p><p class="venue">NeSy 2026 · Accepted conference paper; arXiv preprint</p><p class="links"><a href="https://arxiv.org/abs/2608.13617">arXiv ↗</a><a href="https://2026.nesyconf.org/">Conference ↗</a></p></div>

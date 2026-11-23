@@ -38,7 +38,11 @@ def pubentries(entries):
   e=re.sub(r'\s*\[(?:source|paper|code|preprint|website)\]','',e,flags=re.I)
   e=e.replace('56– 62.', '56–62.')
   e=e.replace('et al. (including K. Roy)','et al. (including K. Roy)')
-  t=Table([[p(f'{i:02d}','num'),p(escape(e),'pub')]],colWidths=[30,478],hAlign='LEFT')
+  citation=escape(e)
+  report_url='https://www.alphaxiv.org/abs/2611.reasoning-explainability-autonomous-ai'
+  if report_url in citation:
+   citation=citation.replace(report_url, f'<link href="{report_url}"><font color="#9E1B32">alphaXiv report</font></link>')
+  t=Table([[p(f'{i:02d}','num'),p(citation,'pub')]],colWidths=[30,478],hAlign='LEFT')
   t.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('LEFTPADDING',(0,0),(-1,-1),0),('RIGHTPADDING',(0,0),(-1,-1),4),('TOPPADDING',(0,0),(-1,-1),0),('BOTTOMPADDING',(0,0),(-1,-1),10)]))
   story.append(t)
 def extract(a,b):
@@ -98,7 +102,7 @@ chapters=extract('BOOK CHAPTERS','ACCEPTED WORK')
 
 # Entries are integrated in their publication category; no separate additional-outputs section.
 conferences.append('Tripathi, H., Roy, K., Neupane, S., & Rahimi, S. (2026). How Compliant Is Sepsis Treatment? An Expert-Guided Neuro-Symbolic Pipeline for Generating Clinical Compliance Insights. NeSy 2026.')
-preprints=['Tripathi, H., Roy, K., Rahimi, S., Neupane, S., & Bozorgzad, S. (2026). From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data. medRxiv. DOI: 10.64898/2026.04.23.26351412.']
+preprints=['Roy, K. (2026). Beyond Pattern Recognition: Reasoning, Explainability, and Autonomy in Artificial Intelligence. alphaXiv. Keynote talk report. https://www.alphaxiv.org/abs/2611.reasoning-explainability-autonomous-ai', 'Tripathi, H., Roy, K., Rahimi, S., Neupane, S., & Bozorgzad, S. (2026). From Protocol to Practice: Graded Sepsis Bundle Compliance and Actionable Insights from Real-World ICU Data. medRxiv. DOI: 10.64898/2026.04.23.26351412.']
 chapters.append('Roy, K., Gaur, M., Soltani, M., Rawte, V., Kalyan, A., & Sheth, A. (2024). ProKnow: Process Knowledge for Safety Constrained and Explainable Question Generation for Mental Health Diagnostic Assistance in the Age of Large Language Models. Science and Technology – Recent Updates and Future Prospects, Vol. 2.')
 # The journal extraction has 16 genuine records; do not parse standalone page numbers as entries.
 assert len(journals)==16 and len(chapters)==2
@@ -110,7 +114,7 @@ symposia=[e.replace('Tsakalidis, A., Chim, J., Bilal, I. M., Zirikly, A., Atzil-
 for label,records in [('JOURNAL ARTICLES',journals),('CONFERENCE PAPERS AND DEMONSTRATIONS',conferences),('SYMPOSIUM AND WORKSHOP PAPERS',symposia),('BOOK CHAPTERS',chapters)]:
     story.append(p(label,'sub'))
     pubentries(reverse_chronological(records))
-story.append(p('PREPRINTS','sub'))
+story.append(p('PREPRINTS AND SCHOLARLY REPORTS','sub'))
 pubentries(reverse_chronological(preprints))
 
 section('Teaching and mentoring',6)
@@ -125,7 +129,7 @@ story.append(p('EVENT ORGANIZATION AND PROGRAM COMMITTEES','sub'))
 for date,t in [('2026','Program Committee · CNLP4QoL Workshop, IEEE ICHI; TRUSTMORE Workshop, IEEE BigData'),('2025','Program Committee · CLPsych'),('2024','Program Committee · KiL Workshop, ACM KDD; Tutorial Organizer · ISWC'),('2023','Organizing Committee · Knowledge-infused Learning Workshop, ACM KDD; Tutorial Organizer · The Web Conference'),('2020','Program Committee · KiML Workshop, ACM KDD')]:row(date,t)
 story.append(p('PEER REVIEW','sub'));plain('Neurosymbolic Artificial Intelligence (2024–2026) · COLING 2025 System Demonstrations')
 section('Invited talks and tutorials',8)
-row('Nov 20, 2026','<b>Keynote:</b> <i>Beyond Pattern Recognition: Towards Reasoning, Explainability, and Autonomy in Artificial Intelligence</i> · AICCT 2026, Amity University Madhya Pradesh · <link href="https://kauroy1994.github.io/home/files/2026_AICCT_Roy_Keynote_UA_Revised.html"><font color="#9E1B32">Slides</font></link>')
+row('Nov 20, 2026','<b>Keynote:</b> <i>Beyond Pattern Recognition: Towards Reasoning, Explainability, and Autonomy in Artificial Intelligence</i> · AICCT 2026, Amity University Madhya Pradesh · <link href="https://kauroy1994.github.io/home/files/2026_AICCT_Roy_Keynote_UA_Revised.html"><font color="#9E1B32">Slides</font></link> · <link href="https://www.alphaxiv.org/abs/2611.reasoning-explainability-autonomous-ai"><font color="#9E1B32">Talk report</font></link>')
 for date,t in [('2026','Task-dependent Meta-cognition for General Classes of Problems · University of South Carolina'),('2025','AI in Healthcare · University of South Carolina'),('2024','Healthcare Assistance Challenges-Driven Neurosymbolic AI · Ontolog Summit; Knowledge-infused Neurosymbolic AI for Mental Healthcare · University of Florida; Neurosymbolic Customized and Compact CoPilots · ISWC'),('2023','Causal AI for Web and Health Care · The Web Conference'),('2022','Knowledge-infused Reinforcement Learning · Knowledge Graph Conference'),('2020','Knowledge-infused Statistical Learning for Social Good · PyData Berlin')]:row(date,t)
 
 def decorate(c,doc):
